@@ -1,10 +1,15 @@
 {
-  "updatedAt": "",
+  "updatedAt": "2026-02-03T08:47:17.398718",
   "insight": {
-    "title": "",
-    "subtitle": "",
-    "readingTime": 0,
-    "sections": []
+    "title": "How money is created out of thin air",
+    "subtitle": "Why banks can create money when they lend",
+    "readingTime": 5,
+    "sections": [
+      {
+        "type": "paragraph",
+        "text": "Most people believe banks lend out money that already exists."
+      }
+    ]
   },
   "news": []
 }
