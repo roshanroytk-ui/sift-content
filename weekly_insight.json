@@ -1,0 +1,42 @@
+{
+  "title": "How money is created out of thin air",
+  "readingTime": 5,
+  "sections": [
+    {
+      "type": "paragraph",
+      "text": "Most people believe banks lend out money that already exists. They imagine banks as vaults taking deposits from savers and handing that same money to borrowers."
+    },
+    {
+      "type": "paragraph",
+      "text": "That intuition feels natural. It is also wrong."
+    },
+    {
+      "type": "heading",
+      "text": "The surprising truth"
+    },
+    {
+      "type": "paragraph",
+      "text": "In modern economies, most money is created when banks issue loans. When a bank approves a loan, it does not transfer existing money from someone else’s account."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, it creates new money digitally by crediting the borrower’s account. Money appears not from printing presses, but from accounting entries."
+    },
+    {
+      "type": "heading",
+      "text": "Why this matters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because money is created through lending, interest rates strongly influence inflation, growth, and employment even when nothing physical changes."
+    },
+    {
+      "type": "heading",
+      "text": "The takeaway"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most money is not printed by governments. It is quietly created when loans are issued and destroyed when they are repaid."
+    }
+  ]
+}
