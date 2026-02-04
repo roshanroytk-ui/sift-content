@@ -40,6 +40,10 @@ content = {
             {
                 "type": "paragraph",
                 "text": "Most people believe banks lend out money that already exists."
+            },
+            {
+                "type": "heading",
+                "text": "The surprising truth"
             }
         ]
     },
