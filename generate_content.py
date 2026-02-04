@@ -41,26 +41,6 @@ content = {
                 "type": "paragraph",
                 "text": "Most people believe banks lend out money that already exists."
             }
-            {
-                "type": "heading",
-                "text": "The surprising truth"
-            },
-            {
-                "type": "paragraph",
-                "text": "In modern economies, most money is created when banks issue loans."
-            },
-            {
-                "type": "paragraph",
-                "text": "When a bank approves a loan, it creates new money digitally."
-            },
-            {
-                "type": "heading",
-                "text": "Why this matters"
-            },
-            {
-                "type": "paragraph",
-                "text": "This explains why interest rates affect inflation and growth."
-            }
         ]
     },
     "news": articles[:5]
