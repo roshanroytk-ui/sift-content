@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T13:21:22.674809",
+  "updatedAt": "2026-02-04T14:33:58.215372",
   "insight": {
     "title": "How money is created out of thin air",
     "subtitle": "Why banks can create money when they lend",
@@ -7,7 +7,11 @@
     "sections": [
       {
         "type": "paragraph",
-        "text": "Most people believe banks lend out money that already exists."
+        "text": "Most people believe banks lend out money that already exists.They imagine banks as vaults \u2014 taking deposits from savers and handing that same money to borrowers."
+      },
+      {
+        "type": "paragraph",
+        "text": "That intuition feels natural. It\u2019s also wrong."
       },
       {
         "type": "heading",
@@ -15,11 +19,11 @@
       },
       {
         "type": "paragraph",
-        "text": "In modern economies, most money is created when banks issue loans."
+        "text": "In modern economies, most money is created when banks issue loans.When a bank approves your loan, it does not transfer existing money from someone else\u2019s account."
       },
       {
         "type": "paragraph",
-        "text": "When a bank approves a loan, it creates new money digitally."
+        "text": "Instead, it creates new money digitally by crediting your account with a deposit. Money appears \u2014 not from printing presses, but from accounting entries."
       },
       {
         "type": "heading",
@@ -27,7 +31,15 @@
       },
       {
         "type": "paragraph",
-        "text": "This explains why interest rates affect inflation and growth."
+        "text": "Because money is created through lending, economies are highly sensitive to interest rates and financial confidence."
+      },
+      {
+        "type": "heading",
+        "text": "The takeaway"
+      },
+      {
+        "type": "paragraph",
+        "text": "Money is not a fixed pool. It expands and contracts based on trust, rules, and incentives."
       }
     ]
   },
