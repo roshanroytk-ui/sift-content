@@ -44,28 +44,39 @@ for a in articles:
 articles = unique_articles
 
 def generate_insight():
-    prompt = (
-        "Write a short daily insight article (300-400 words).\n"
-        "Tone: calm, intelligent, thoughtful, optimistic.\n"
-        "Topic: economics, technology, society, growth, or learning.\n"
-        "Avoid crime, negativity, or celebrity gossip.\n"
-        "Return plain paragraphs only."
-    )
+    prompt = """
+    Write a calm, thoughtful daily insight (300–400 words).
 
-    url = (
-        "https://generativelanguage.googleapis.com/"
-        "v1beta/models/gemini-1.5-flash-latest:generateContent"
-        f"?key={GEMINI_KEY}"
-    )
+    Tone: intelligent, optimistic, reflective
+    Topics: economics, technology, society, learning, long-term thinking
+    Avoid: crime, fear, gossip, celebrity news
 
-    payload = {
-        "contents": [
-            {
-                "role": "user",
-                "parts": [
-                    {"text": prompt}
-                ]
-            }
+    Structure:
+    - Short engaging opening
+    - Clear explanation
+    - Gentle takeaway
+
+    Return plain paragraphs only (no markdown).
+    """
+
+    response = requests.post(
+        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={GEMINI_KEY}",
+        json={
+            "contents": [
+                {"parts": [{"text": prompt}]}
+            ]
+        }
+    ).json()
+
+    text = response["candidates"][0]["content"]["parts"][0]["text"]
+
+    return {
+        "title": "Daily Insight",
+        "subtitle": "A calm perspective",
+        "readingTime": 3,
+        "sections": [
+            {"type": "paragraph", "text": p}
+            for p in text.split("\n\n") if p.strip()
         ]
     }
 
