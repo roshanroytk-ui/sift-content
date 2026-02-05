@@ -64,7 +64,7 @@ def generate_insight():
     """
 
     response = requests.post(
-        f"https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash-preview-09-2025:generateContent?key={GEMINI_KEY}",
+        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={GEMINI_KEY}",
         json={
             "contents": [
                 {"parts": [{"text": prompt}]}
