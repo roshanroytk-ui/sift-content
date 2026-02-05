@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T18:45:45.804445",
+  "updatedAt": "2026-02-05T18:55:24.930514",
   "insight": {
     "title": "Daily Insight",
     "subtitle": "AI temporarily unavailable",
@@ -12,6 +12,22 @@
     ]
   },
   "news": [
+    {
+      "title": "Edge Chips in Japan in Win for Takaichi",
+      "description": "Taiwan Semiconductor Manufacturing Co. plans to make advanced 3-nanometer chips in Japan, stepping up its semiconductor manufacturing roadmap in the country in a triumph for Prime Minister Sanae Takaichi\u2019s technology ambitions.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-05/tsmc-plans-major-upgrade-of-japan-chip-plant-in-win-for-takaichi",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "US man shares clever AirTag trick that Apple never explains when you buy it",
+      "description": "US tech creator reveals a simple AirTag setup trick Apple doesn\u2019t explain, plus a small habit that makes trackers far more useful day to day",
+      "source": "supercarblondie.com",
+      "url": "https://supercarblondie.com/tech/apple-airtag-tips-and-tricks/",
+      "category": "General",
+      "readingTime": 2
+    },
     {
       "title": "ICE can't make warrantless arrests in Oregon unless there's risk of escape, judge rules",
       "description": "U.S. immigration agents in Oregon must stop arresting people without warrants unless there's a likelihood of escape, a federal judge ruled Wednesday.",
@@ -77,18 +93,10 @@
       "readingTime": 2
     },
     {
-      "title": "Fears of nuclear arms race rise as US-Russia treaty expires",
-      "description": "The expiration of the last remaining nuclear treaty between the United States and Russia on Thursday has sparked fears about a nuclear arms race, with the two biggest nuclear superpowers without limits on their arsenals for the first time in decades.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/02/05/politics/fears-nuclear-arms-race-treaty-expires",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Bad Bunny to discuss Super Bowl halftime show",
-      "description": "Bad Bunny is expected to perform solely in Spanish during the Super Bowl halftime show, highlighting Latin identity at America\u2019s most-watched event.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-f441549a00166a39309233f689163105",
+      "title": "Mumbai shocker: Father identified as rapist after DNA test of 16 men",
+      "description": "The police found that the girl had been sexually assaulted by several people who took advantage of her disability.| India News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/india-news/mumbai-shocker-father-identified-as-rapist-after-dna-test-of-16-men-101770265426656.html",
       "category": "General",
       "readingTime": 2
     },
@@ -165,10 +173,18 @@
       "readingTime": 2
     },
     {
-      "title": "Mirzapur the Movie release date: Pankaj Tripathi, Ali Fazal to bring OTT's biggest gang war to big screen on this date",
-      "description": "Mirzapur the Movie finally has a release date, bringing Guddu Pandit and Kaleen Bhaiya's rivalry from OTT to the big screen. | Bollywood",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/entertainment/bollywood/mirzapur-the-movie-release-date-pankaj-tripathi-ali-fazal-divyenndu-bring-ott-biggest-gang-war-to-big-screen-prime-video-101770266882919.html",
+      "title": "FTSE 100 Live: Trillion-dollar tech sell-off rocks global markets",
+      "description": "Welcome back to the City AM liveblog, we'll be bringing you the latest top stories of the morning from the FTSE 100 and City.",
+      "source": "City AM",
+      "url": "https://www.cityam.com/ftse-100-live-tech-sell-off-ai-trillion-bank-of-england-interest-rate-cut-hold/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Workers urge Target and US firms to speak up over ICE raids",
+      "description": "Workers are writing letters, staging strikes and in some cases resigning over how bosses are handling the immigration crackdown.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4y4gwjpeo",
       "category": "General",
       "readingTime": 2
     },
@@ -237,18 +253,82 @@
       "readingTime": 2
     },
     {
-      "title": "Naked images remained in Epstein files despite outcry",
-      "description": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yd10yp2m1o",
+      "title": "Kerala Assembly: Ruckus over Sabarimala gold theft row rocks House again; Speaker cuts short day\u2019s business",
+      "description": "Kerala Assembly faces chaos over Sabarimala gold theft protests; Speaker curtails session amid demands for MGNREGS restoration.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-ruckus-over-sabarimala-gold-theft-row-rocks-house-again-speaker-cuts-short-days-business/article70594656.ece",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "class' Tottenham star as gargantuan \u00a3100m price is set",
-      "description": "Former Manchester United goalkeeper Peter Schmeichel has told the Red Devils to consider a bombshell \u00a3100million deal for an elite Tottenham star.",
-      "source": "TEAMtalk",
-      "url": "https://www.teamtalk.com/manchester-united/man-utd-transfer-news-micky-van-de-ven-tottenham-exit",
+      "title": "IndiGo shares down nearly 4% as CCI orders detailed probe for unfair business practices",
+      "description": "CCI ordered a detailed probe against IndiGo for unfair business practices, nearly two months after it cancelled thousands of flights due to operational issues,",
+      "source": "The New Indian Express",
+      "url": "https://www.newindianexpress.com/business/2026/Feb/05/indigo-shares-down-nearly-4-pc-as-cci-orders-detailed-probe-for-unfair-business-practices",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Silver, bitcoin and parts of the tech sector are taking a heavy battering",
+      "description": "The software sector is continuing to be purged in the United States. Fears that artificial intelligence could upend business software are unnerving investors, who are using the opportunity to...\n-February 05, 2026 at 01:53 am EST\n- MarketScreener",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/silver-bitcoin-and-parts-of-the-tech-sector-are-taking-a-heavy-battering-ce7e5adbdb8ef32d",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Affordability gap remains for first-time buyers and TikTok fesses up on harmful social media content",
+      "description": "Business Today: The best news, analysis and comment from The Irish Times business desk",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/02/05/affordability-gap-remains-for-first-time-buyers-and-tiktok-fesses-up-on-harmful-social-media-content/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Boeing Layoffs: Aircraft giant to cut 300 jobs from defence division, workers to be notified this week",
+      "description": "Boeing will cut 300 jobs from its defence supply chain division as part of a strategic workforce realignment, even as the aircraft maker continues hiring across other business units.",
+      "source": "India.com",
+      "url": "https://www.india.com/business/boeing-layoffs-aircraft-giant-to-cut-300-jobs-from-defence-division-workers-to-be-notified-this-week-8293765/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Boeing to cut around 300 defense supply chain jobs",
+      "description": "Boeing Co is eliminating about 300 supply chain jobs from its defense division, and is notifying affected workers this week.| Business News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/business/boeing-to-cut-around-300-defense-supply-chain-jobs-101770271862436.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "ArcelorMittal South Africa narrows loss after shutting long steel operations",
+      "description": "ArcelorMittal South Africa said on Thursday it narrowed its full-year loss by 34% on the back of lower raw material costs and after closing its money-losing long steel business.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/arcelormittal-south-africa-narrows-loss-after-shutting-long-steel-operations-2026-02-05/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Mitsubishi Corp CFO: expecting a recovery in production volumes in our Australian coking coal business by fiscal 2027, supported by productivity improvement measures implemented to date",
+      "description": "Mitsubishi Corp:\nMitsubishi Corp CFO: We are in discussions with partners regarding LNG Canada's production capacity expansion; the timing of final investment decision remains...",
+      "source": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/mitsubishi-corp-cfo-expecting-a-recovery-in-production-volumes-in-our-australian-coking-coal-busin-ce7e5adbdb8ff02d",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Delhi Businessman Mukesh Kumar Beaten by Group for Stopping Them from Harassing Women at Mehrauli Tea Stall; Disturbing Video Goes Viral",
+      "description": "Delhi Businessman Mukesh Kumar Beaten by Group for Stopping Them from Harassing Women at Mehrauli Tea Stall; Disturbing Video Goes Viral - Mukesh Kumar, a Delhi resident who runs a transport business, was brutally assaulted by a group of unidentified men ... Get Latest News on National only on lokmattimes.com",
+      "source": "Lokmat Times",
+      "url": "https://www.lokmattimes.com/national/delhi-businessman-mukesh-kumar-beaten-by-group-for-stopping-them-from-harassing-women-at-mehrauli-tea-stall-disturbing-video-goes-viral-a517/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Flood defence saves New Ross homes and businesses from dangerously high river levels - \u2018We understand the trauma of flooding\u2019",
+      "description": "As families and business owners are left devastated by the damage caused by Storm Chandra in Enniscorthy, the people in the neighbouring town of New Ross are counting their blessings that they are behind the sturdy walls of the town\u2019s completed flood defence system.",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/regionals/wexford/new-ross-news/flood-defence-saves-new-ross-homes-and-businesses-from-dangerously-high-river-levels-we-understand-the-trauma-of-flooding/a588260985.html",
       "category": "General",
       "readingTime": 2
     }
