@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T16:34:57.505137",
+  "updatedAt": "2026-02-05T16:45:08.282458",
   "insight": {
     "title": "How money is created out of thin air",
     "subtitle": "Why banks can create money when they lend",
@@ -43,5 +43,46 @@
       }
     ]
   },
-  "news": []
+  "news": [
+    {
+      "title": "Mars Rover Can't Escape AI Even On A Whole Separate Planet",
+      "description": "Driving the rover remotely in real time isn't possible due to the vast distance between the planets.",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2092323/mars-rover-escape-ai/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Man surrenders to police after fatally attacking woman with poisonous arrow in Baringo",
+      "description": "The suspect claimed that the deceased mistreated his wife",
+      "source": "the-star.co.ke",
+      "url": "https://www.the-star.co.ke/news/2026-02-05-man-surrenders-to-police-after-fatally-attacking-woman-with-poisonous-arrow-in-kinyach-baringo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Valve Steam Machine and Frame Hit by Memory Crisis",
+      "description": "When Valve announced the Steam Machine, Steam Frame, and updated Steam Controller late in 2025, it did not reveal pricing, but the gaming giant said that the hardware would launch in early 2026. That launch window is still on the cards, but according to a recent announcement by Valve, it is still un...",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/345989/valve-steam-machine-and-frame-hit-by-memory-crisis",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Sources: Warriors trading Jonathan Kuminga, Buddy Hield to Hawks for Kristaps Porzingis",
+      "description": "The Warriors are trading Jonathan Kuminga and Buddy Hield to the Hawks for Kristaps Porzingis, sources told ESPN, unofficially putting an end to Golden State's pursuit of Giannis Antetokounmpo.",
+      "source": "ESPN",
+      "url": "https://www.espn.com.au/nba/story/_/id/47834519/warriors-trading-jonathan-kuminga-buddy-hield-hawks-kristaps-porzingis",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "165,000-classroom backlog: DepEd taps LGUs to speed up school infrastructure",
+      "description": "The Department of Education (DepEd) on Thursday, February 5, highlighted a new decentralized strategy to address the country\u2019s growing classroom shortage by...",
+      "source": "Manila Bulletin",
+      "url": "https://mb.com.ph/2026/02/05/165000-classroom-backlog-deped-taps-lgus-to-speed-up-school-infrastructure",
+      "category": "General",
+      "readingTime": 2
+    }
+  ]
 }
