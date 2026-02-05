@@ -4,6 +4,8 @@ from datetime import datetime
 
 import os
 API_KEY = os.environ["GNEWS_API_KEY"]
+GEMINI_KEY = os.environ["GEMINI_API_KEY"]
+
 # ✅ Multiple countries to bypass 10-article limit per request
 urls = [
     f"https://gnews.io/api/v4/top-headlines?country=us&lang=en&token={API_KEY}",
@@ -41,51 +43,39 @@ for a in articles:
 
 articles = unique_articles
 
+def generate_insight():
+    prompt = """
+    Write a short daily insight article (300-400 words).
+    Tone: calm, intelligent, thoughtful, optimistic.
+    Topic: economics, technology, society, growth, or learning.
+    Avoid crime, negativity, or celebrity gossip.
+    Return plain paragraphs only.
+    """
+
+    response = requests.post(
+        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}",
+        json={
+            "contents": [
+                {"parts": [{"text": prompt}]}
+            ]
+        }
+    ).json()
+
+    text = response["candidates"][0]["content"]["parts"][0]["text"]
+
+    return {
+        "title": "Daily Insight",
+        "subtitle": "A calm perspective",
+        "readingTime": 3,
+        "sections": [
+            {"type": "paragraph", "text": p}
+            for p in text.split("\n\n") if p.strip()
+        ]
+    }
+
 content = {
     "updatedAt": datetime.utcnow().isoformat(),
-    "insight": {
-        "title": "How money is created out of thin air",
-        "subtitle": "Why banks can create money when they lend",
-        "readingTime": 5,
-        "sections": [
-            {
-                "type": "paragraph",
-                "text": "Most people believe banks lend out money that already exists.They imagine banks as vaults — taking deposits from savers and handing that same money to borrowers."
-            },
-            {
-                "type": "paragraph",
-                "text": "That intuition feels natural. It’s also wrong."
-            },
-            {
-                "type": "heading",
-                "text": "The surprising truth"
-            },
-            {
-                "type": "paragraph",
-                "text": "In modern economies, most money is created when banks issue loans.When a bank approves your loan, it does not transfer existing money from someone else’s account."
-            },
-            {
-                "type": "paragraph",
-                "text": "Instead, it creates new money digitally by crediting your account with a deposit. Money appears — not from printing presses, but from accounting entries."
-            },
-            {
-                "type": "heading",
-                "text": "Why this matters"
-            },
-            {
-                "type": "paragraph",
-                "text": "Because money is created through lending, economies are highly sensitive to interest rates and financial confidence."
-            },
-            {
-                "type": "heading",
-                "text": "The takeaway"
-            },
-            {
-                "type": "paragraph",
-                "text": "Money is not a fixed pool. It expands and contracts based on trust, rules, and incentives."
-            }
-        ]
-    },
+    "insight": generate_insight(),
     "news": articles
 }
 
