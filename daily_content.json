@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-02-05T17:48:55.225804",
+  "updatedAt": "2026-02-05T18:45:45.804445",
   "insight": {
-    "title": "How money is created out of thin air",
-    "subtitle": "Why banks can create money when they lend",
-    "readingTime": 5,
+    "title": "Daily Insight",
+    "subtitle": "AI temporarily unavailable",
+    "readingTime": 1,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Most people believe banks lend out money that already exists.They imagine banks as vaults \u2014 taking deposits from savers and handing that same money to borrowers."
-      },
-      {
-        "type": "paragraph",
-        "text": "That intuition feels natural. It\u2019s also wrong."
-      },
-      {
-        "type": "heading",
-        "text": "The surprising truth"
-      },
-      {
-        "type": "paragraph",
-        "text": "In modern economies, most money is created when banks issue loans.When a bank approves your loan, it does not transfer existing money from someone else\u2019s account."
-      },
-      {
-        "type": "paragraph",
-        "text": "Instead, it creates new money digitally by crediting your account with a deposit. Money appears \u2014 not from printing presses, but from accounting entries."
-      },
-      {
-        "type": "heading",
-        "text": "Why this matters"
-      },
-      {
-        "type": "paragraph",
-        "text": "Because money is created through lending, economies are highly sensitive to interest rates and financial confidence."
-      },
-      {
-        "type": "heading",
-        "text": "The takeaway"
-      },
-      {
-        "type": "paragraph",
-        "text": "Money is not a fixed pool. It expands and contracts based on trust, rules, and incentives."
+        "text": "Insight will refresh tomorrow."
       }
     ]
   },
   "news": [
+    {
+      "title": "ICE can't make warrantless arrests in Oregon unless there's risk of escape, judge rules",
+      "description": "U.S. immigration agents in Oregon must stop arresting people without warrants unless there's a likelihood of escape, a federal judge ruled Wednesday.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/02/05/g-s1-108778/ice-agents-warrantless-arrests-oregon",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Top NHL Draft prospect Gavin McKenna charged with felony aggravated assault",
+      "description": "McKenna, who turned 18 on Dec. 20, is also facing a misdemeanor assault charge and summary charges of harassment and disorderly conduct.",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/7022474/2026/02/04/gavin-mckenna-felony-charges-arrested-penn-state-hockey/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Nintendo Direct Partner Showcase Announced For Today, 5th February 2026",
+      "description": "Howdy, partners! - Update: Today's the day, Partners! You'll find everything you need to know about today's Nintendo Direct Partner Showcase in the post belo...",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/02/nintendo-direct-partner-showcase-announced-for-today-5th-february-2026",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Cavs clobber Clippers, 124-91, in \u2018weird\u2019 game with Darius Garland seated courtside",
+      "description": "The Cavs have won nine of their last 11 games. They are now fourth in the Eastern Conference \u2014 and look primed to continue this ascension, especially given this week\u2019s roster enhancements.",
+      "source": "Cleveland.com",
+      "url": "https://www.cleveland.com/cavs/2026/02/cavs-clobber-clippers-124-91-in-weird-game-with-darius-garland-seated-courtside.html",
+      "category": "General",
+      "readingTime": 2
+    },
     {
       "title": "UAW secures historic tentative contract deal at Volkswagen plant in Tennessee",
       "description": "The UAW has secured a tentative agreement with Volkswagen in Chattanooga, Tennessee, promising 20% raises, health care cost cuts and bonuses for workers.",
@@ -93,34 +93,42 @@
       "readingTime": 2
     },
     {
-      "title": "Mars Rover Can't Escape AI Even On A Whole Separate Planet",
-      "description": "Driving the rover remotely in real time isn't possible due to the vast distance between the planets.",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2092323/mars-rover-escape-ai/",
+      "title": "MPC Poll | RBI likely to hold rates in February policy, focus shifts to liquidity management, transmission",
+      "description": "The February policy is expected maintain the repo rate at 5.25% as the RBI shifts focus from rate cuts to liquidity infusion, experts say.",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/banking/mpc-poll-rbi-likely-to-hold-rates-in-february-policy-focus-shifts-to-liquidity-management-transmission-article-13812419.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Valve Steam Machine and Frame Hit by Memory Crisis",
-      "description": "When Valve announced the Steam Machine, Steam Frame, and updated Steam Controller late in 2025, it did not reveal pricing, but the gaming giant said that the hardware would launch in early 2026. That launch window is still on the cards, but according to a recent announcement by Valve, it is still un...",
-      "source": "TechPowerUp",
-      "url": "https://www.techpowerup.com/345989/valve-steam-machine-and-frame-hit-by-memory-crisis",
+      "title": "InterGlobe Aviation shares fall over 3.5% as CCI orders detailed probe for unfair business practices",
+      "description": "InterGlobe Aviation share price: The CCI on Wednesday ordered a detailed probe against IndiGo for unfair business practices, nearly two months after the country's largest airline cancelled thousands of flights due to operational issues, causing hardships to passengers.",
+      "source": "Upstox",
+      "url": "https://upstox.com/news/market-news/stocks/inter-globe-aviation-shares-fall-over-3-5-as-cci-orders-detailed-probe-for-unfair-business-practices/article-188979/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Rangers trade Artemi Panarin to Kings in pre-Olympic freeze deal",
-      "description": "The Breadman is headed to Southern California. Artemi Panarin waived his no-move clause with the Rangers and accepted a trade to the Kings, The Post confirmed.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/02/04/sports/rangers-trade-artemi-panarin-to-kings-in-pre-olympic-freeze-deal/",
+      "title": "Silver ETFs down up to 16%: Here is how you may be misreading the fall",
+      "description": "Silver ETFs can sometimes perform worse than silver during sharp price corrections due to temporary divergences between the ETF\u2019s traded price and its iNAV/NAV",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/personal-finance/silver-etfs-down-up-to-16-here-is-how-you-may-be-misreading-the-fall-13812379.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "3 takeaways from No. 16 BYU\u2019s loss to Oklahoma State",
-      "description": "Make that three straight losses for BYU.",
-      "source": "Deseret News",
-      "url": "https://www.deseret.com/sports/2026/02/04/byu-basketball-loses-at-oklahoma-state-3-takeaways/",
+      "title": "\"Ship Has Sailed...\": Ramesh Damani Sees Ominous Signs For Indian IT Amid Anthropic Buzz",
+      "description": "Talking about the road ahead for Indian IT in the midst of this AI-led productivity shift, Ramesh Damani said that while business will continue, the \"next 10-20 years will be led by a different set of leaders than what we saw in the post-1992 era.\"",
+      "source": "NDTV Profit",
+      "url": "https://www.ndtvprofit.com/markets/ramesh-damanis-warning-to-indian-it-firms-like-infosys-wipro-tcs-as-anthropics-ai-disrupts-it-10950027",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "BREAKING| Jan Suraaj Party Moves Supreme Court Challenging Bihar Elections, Questions Direct Transfer Of Rs 10K To Women",
+      "description": "The Jan Suraaj Party floated by Prashant Kishore has filed a writ petition in the Supreme Court challenging the Bihar Assembly Elections, 2025 on account of illegal practices and seeking fresh...",
+      "source": "Live Law",
+      "url": "https://www.livelaw.in/top-stories/prashant-kishore-jan-suraaj-party-moves-supreme-court-challenging-bihar-elections-questions-direct-transfer-of-rs-10k-to-women-521959",
       "category": "General",
       "readingTime": 2
     },
@@ -165,202 +173,82 @@
       "readingTime": 2
     },
     {
-      "title": "Over 100 boxes of explosives seized from pick-up van in Kerala's Palakkad",
-      "description": "Police in Kerala seize over 100 boxes of explosives hidden in a pick-up van during a routine inspection.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/over-100-boxes-of-explosives-seized-from-pick-up-van-in-keralas-palakkad/article70594381.ece",
+      "title": "'A diamond of a man'",
+      "description": "FRIENDS of a \"loving\" dad-of-five who tragically died after a motorbike crash have rallied around his heartbroken partner.\nGary Pidgley, 48, was...",
+      "source": "The Sun",
+      "url": "https://www.thesun.co.uk/news/38126116/dad-killed-motorbike-crash-pictured-partner-pays-tribute/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "New Guidelines Help to Reduce Unnecessary Neonatal Transfusions",
-      "description": "Although platelet transfusions can be lifesaving, they can also pose harm to neonates and should be used as sparingly as possible.",
-      "source": "Hematology Advisor",
-      "url": "https://www.hematologyadvisor.com/news/neonatal-transfusions-new-guidelines-reduce-unnecessary-treatment-risk/",
+      "title": "Katie Price issues statement after fears over 'too soon' wedding",
+      "description": "Katie Price will be 'pausing' her self-titled podcast following her whirlwind engagement and wedding to Lee Andrews, it has been announced",
+      "source": "The Mirror",
+      "url": "https://www.mirror.co.uk/3am/celebrity-news/breaking-katie-price-pauses-huge-36672712",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Border 2 worldwide box office collection day 13: Sunny Deol, Varun Dhawan film hits \u20b9400 crore; beats 3 Idiots, Krrish 3",
-      "description": "Border 2 worldwide box office collection day 13: The Sunny Deol and Varun Dhawan-starrer has entered the 400-crore club. | Bollywood",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/entertainment/bollywood/border-2-worldwide-box-office-collection-day-13-sunny-deol-varun-dhawan-diljit-dosanjh-ahan-400-crore-3-idiots-krrish-3-101770264943756.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Google crosses $400 billion revenue mark for the first time; Elon Musk reacts",
-      "description": "Tech News News: Google reported its Q4 earnings, surpassing $400 billion in annual revenue for the first time. Announcing the results, CEO Sundar Pichai shared a post.",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-crosses-400-billion-revenue-mark-for-the-first-time-elon-musk-reacts/articleshow/127923956.cms",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Mrunal Thakur blushes as Siddhant Chaturvedi teases her over \u2018Chennai connection\u2019 amid dating rumours with Dhanush",
-      "description": "Mrunal Thakur's rumored romance with Dhanush gained traction after they were seen together. Dhanush's comment on her film teaser added to the speculation.\u00a0 | Bollywood",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/entertainment/bollywood/mrunal-thakur-blushes-as-siddhant-chaturvedi-teases-her-over-chennai-connection-amid-dating-rumours-with-dhanush-101770258947883.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Valve admits its Steam Machine and Steam Frame will be delayed due to RAM and storage price surges",
-      "description": "Valve has confirmed that its Steam Machine, Steam Frame and Steam Controller hardware releases, previously expected in Q1 2026, have been delayed. Here's why.",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/valve-admits-its-steam-machine-and-steam-frame-will-be-delayed-due-to-ram-and-storage-price-surges",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Gus Lamont updates LIVE: Cops identify ONE suspect in disappearance of little boy, four and rule out theories he was abducted or wandered off",
-      "description": "Follow Daily Mail's live coverage of all the latest updates on the disappearance of missing toddler Gus Lamont.",
-      "source": "Daily Mail",
-      "url": "https://www.dailymail.co.uk/news/article-15529625/Gus-Lamont-major-update-Yunta-missing-boy.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "The compact camera that\u2019s so trendy that Canon can\u2019t keep it in stock just got a fresh new look! A special edition Canon PowerShot G7 X Mark III is coming",
-      "description": "The Canon PowerShot G7 X Mark III is getting special edition treatment, but how hard will it be to get the trendy camera in its new minimalist look?",
-      "source": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/cameras/compact-cameras/the-compact-camera-thats-so-trendy-that-canon-cant-keep-it-in-stock-just-got-a-fresh-new-look-a-special-edition-canon-powershot-g7-x-mark-iii-is-coming",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Canon launches its widest hybrid prime lens yet",
-      "description": "Canon RF 14mm f/1.4L VCM is a seriously wide lens optimized for videography - and the most expensive RF hybrid yet",
-      "source": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/cameras/lenses/canon-launches-its-widest-hybrid-prime-lens-yet",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "World\u2019s Widest 190\u00b0 Zoom",
-      "description": "Canon's wildest lens yet? The RF 7-14mm f/2.8-3.5 delivers both circular and diagonal fisheye looks in one weather-sealed zoom. Perfect for VR, astro, and creative wide-angle shots.",
-      "source": "Canon Rumors",
-      "url": "https://www.canonrumors.com/canon-announces-the-canon-rf-7-14mm-f-2-8-35-fisheye-zoom-lens/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Savannah Guthrie releases video appealing for proof her missing mother is alive",
-      "description": "Today show host acknowledges reports of alleged ransom letter and calls for safe return of 84-year-old mother online",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/feb/04/savannah-guthrie-missing-mother-video",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Savannah Guthrie addresses mother's abductor",
-      "description": "\"She is without any medicine. She needs it to survive,\" says the NBC host about missing 84-year-old Nancy Guthrie.",
+      "title": "Winter Olympics 2026: How do extreme skiers overcome fear of serious injury?",
+      "description": "What do you do if you fall 40 feet on to hard-packed snow? If you're a Winter Olympics athlete, you pick yourself up and try again.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2e18wvrx9xo",
+      "url": "https://www.bbc.com/sport/articles/c3r1w1vp2ldo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "'U-turn on Mandelson files' and 'Starmer in grave peril'",
-      "description": "Starmer's handling of Mandelson's appointment as ambassador to Washington leads Thursday's papers.",
+      "title": "RSV vaccine campaign launched to protect elderly",
+      "description": "About 1,500 people aged over 75 in the county are yet to take up the free vaccination.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cm24j3lde1eo",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8zd2edq3o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump",
-      "description": "Wednesday's call comes in the wake of a flurry of visits by Western leaders to China in recent months.",
+      "title": "What is groundwater flooding and why Dorset is seeing 'historical highs'",
+      "description": "With a Met Office yellow warning for rain in effect people are being warned about the dangers of groundwater flooding.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c62wpjd3j1zo",
+      "url": "https://www.bbc.co.uk/news/articles/cj4l7rlxzjxo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "FPL notes: Saka, Odegaard, James + Neto absences explained",
-      "description": "Injury updates on Reece James, Pedro Neto, Bukayo Saka and Martin Odegaard as Arsenal edge a cagey contest on Tuesday.",
-      "source": "fantasyfootballscout.co.uk",
-      "url": "https://www.fantasyfootballscout.co.uk/2026/02/04/fpl-notes-saka-odegaard-james-neto-absence-explained",
+      "title": "Heritage vision for RAF Scampton unveiled ahead of sale",
+      "description": "West Lindsey District Council says redeveloping RAF Scampton is a once-in-a-generation opportunity.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9qpr2481wxo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Gold, silver price prediction today: Gold, silver back on track for gains? Here's the outlook",
-      "description": "India Business News: Gold and silver price prediction: Gold and silver prices have resumed their upward momentum after the recent crash, signalling bullish momentum, says .",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-05-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/127922328.cms",
+      "title": "Stalker threatened to kill girl, 13, chop her up and send body parts to her mum",
+      "description": "Matthew Cooney threatened to kidnap the child, \"kill her, cut her into pieces and send her back to her mother\"",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/stalker-threatened-kill-girl-13-33364223",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "How NEMT Providers Can Improve Strategic Management and Logistics Planning",
-      "description": "Efficiency is more than a business goal for non-emergency medical transportation (NEMT) providers. Every late pickup or missed appointment can directly affect a patient\u2019s health and quality of life. At the same time, rising operational costs, staffing challenges, and increasing demand place constant pressure on the organization. Through better strategic management and logistics planning, you [\u2026]",
-      "source": "TechBullion",
-      "url": "https://techbullion.com/how-nemt-providers-can-improve-strategic-management-and-logistics-planning/",
+      "title": "It's one of the biggest illegal waste dumps ever found",
+      "description": "A Liverpool ECHO investigation has unearthed \"utterly shocking criminal activity\u201d, causing serious concerns about the potential health impacts on the local community, and the enormous cost it will take to clean it up",
+      "source": "Liverpool Echo",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/field-merseyside-discovered-one-uks-33365025",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Manipur Governor Ajay Bhalla convenes assembly session at 4pm today",
-      "description": "Ahead of the assembly session, a meeting of the Business Advisory Committee is likely to be held at 3pm.",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/cities/others/manipur-governor-ajay-bhalla-convenes-assembly-session-at-4pm-today-101770270143803.html",
+      "title": "Naked images remained in Epstein files despite outcry",
+      "description": "Four images seen by BBC Verify show partially clothed women with their faces and bodies unredacted.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5yd10yp2m1o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Wired Wisdom: Telecom\u2019s NUF debate, Stuffcool ChargeCube 65, and a near miss",
-      "description": "Beyond the regular noise, a closer look. 5 February 2026.| Business News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/business/wired-wisdom-telecom-s-nuf-debate-stuffcool-chargecube-65-and-a-near-miss-101770269360014.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Anil Ambani\u2019s Reliance Power Shares Fall After 2",
-      "description": "Anil Ambani\u2019s Reliance Power Shares Fall After 2-Day Rally; Stock Slides 38% in 6 Months - Shares of Anil Ambani-led Reliance Power Ltd (NSE: RPOWER)\u00a0fell on Thursday, ending a short-lived two-day recovery. The stock dropped ... Get Latest News on Business only on lokmattimes.com",
-      "source": "Lokmat Times",
-      "url": "https://www.lokmattimes.com/business/anil-ambanis-reliance-power-shares-fall-after-2-day-rally-stock-slides-38-in-6-months-a475/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Working from anywhere is the future, with co-working spaces as part of the solution, says JustCo CEO",
-      "description": "Business has been profitable the past three years; firm opens its first luxury workstation in Singapore. Read more at straitstimes.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/working-from-anywhere-is-the-future-with-co-working-spaces-as-part-of-the-solution-says-justco-ceo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Gold slips around 1 pc, silver prices plummet 8 pc",
-      "description": "Gold slips around 1 pc, silver prices plummet 8 pc - Mumbai, Feb 5 Gold prices fell moderately on Thursday after two days of surge, while silver posted a ... Get Latest News on Business only on lokmattimes.com",
-      "source": "Lokmat Times",
-      "url": "https://www.lokmattimes.com/business/gold-slips-around-1-pc-silver-prices-plummet-8-pc/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Democrats blast US SBA ban on green card owners in US",
-      "description": "Democrats blast US SBA ban on green card owners in US - Washington, Feb 5 Top Democrats have criticised a new Small Business Administration policy that blocks businesses owned by ... Get Latest News on International only on lokmattimes.com",
-      "source": "Lokmat Times",
-      "url": "https://www.lokmattimes.com/international/democrats-blast-us-sba-ban-on-green-card-owners-in-us/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "India\u2019s REITs and InvITs surpass traditional indices in giving returns in 2025",
-      "description": "India\u2019s REITs and InvITs surpass traditional indices in giving returns in 2025 - Mumbai, Feb 5 Listed Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) in 2025 significantly outperformed ... Get Latest News on Business only on lokmattimes.com",
-      "source": "Lokmat Times",
-      "url": "https://www.lokmattimes.com/business/indias-reits-and-invits-surpass-traditional-indices-in-giving-returns-in-2025/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Elon Musk\u2019s companies plan to build AI data centres, in space",
-      "description": "Musk and combined synergies of SpaceX and xAI believe orbital data centres begins the process towards becoming a Kardashev II-level civilisation.| Business News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/business/elon-musk-s-companies-plan-to-build-ai-data-centres-in-space-101770269484327.html",
+      "title": "class' Tottenham star as gargantuan \u00a3100m price is set",
+      "description": "Former Manchester United goalkeeper Peter Schmeichel has told the Red Devils to consider a bombshell \u00a3100million deal for an elite Tottenham star.",
+      "source": "TEAMtalk",
+      "url": "https://www.teamtalk.com/manchester-united/man-utd-transfer-news-micky-van-de-ven-tottenham-exit",
       "category": "General",
       "readingTime": 2
     }
