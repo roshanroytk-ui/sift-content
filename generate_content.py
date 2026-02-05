@@ -45,22 +45,26 @@ articles = unique_articles
 
 def generate_insight():
     prompt = """
-    Write a calm, thoughtful daily insight (300–400 words).
+    Write a calm daily insight.
 
-    Tone: intelligent, optimistic, reflective
-    Topics: economics, technology, society, learning, long-term thinking
-    Avoid: crime, fear, gossip, celebrity news
+    FORMAT EXACTLY LIKE THIS:
 
-    Structure:
-    - Short engaging opening
-    - Clear explanation
-    - Gentle takeaway
+    TITLE: <short thoughtful title>
+    SUBTITLE: <one-line calm subtitle>
+    BODY:
+    <paragraph 1>
 
-    Return plain paragraphs only (no markdown).
+    <paragraph 2>
+
+    <paragraph 3>
+
+    Tone: intelligent, optimistic, reflective.
+    Topics: economics, technology, society, learning, long-term thinking.
+    Avoid crime, fear, gossip, and celebrity news.
     """
 
     response = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={GEMINI_KEY}",
+        f"https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash-preview-09-2025:generateContent?key={GEMINI_KEY}",
         json={
             "contents": [
                 {"parts": [{"text": prompt}]}
@@ -68,26 +72,11 @@ def generate_insight():
         }
     ).json()
 
-    text = response["candidates"][0]["content"]["parts"][0]["text"]
-
-    return {
-        "title": "Daily Insight",
-        "subtitle": "A calm perspective",
-        "readingTime": 3,
-        "sections": [
-            {"type": "paragraph", "text": p}
-            for p in text.split("\n\n") if p.strip()
-        ]
-    }
-
-    r = requests.post(url, json=payload)
-    response = r.json()
-
     if "candidates" not in response:
         print("Gemini error:", response)
         return {
             "title": "Daily Insight",
-            "subtitle": "AI temporarily unavailable",
+            "subtitle": "A calm perspective",
             "readingTime": 1,
             "sections": [
                 {"type": "paragraph", "text": "Insight will refresh tomorrow."}
@@ -96,15 +85,29 @@ def generate_insight():
 
     text = response["candidates"][0]["content"]["parts"][0]["text"]
 
+    # ---- parse title & subtitle ----
+    title = "Daily Insight"
+    subtitle = "A calm perspective"
+
+    for line in text.splitlines():
+        if line.startswith("TITLE:"):
+            title = line.replace("TITLE:", "").strip()
+        elif line.startswith("SUBTITLE:"):
+            subtitle = line.replace("SUBTITLE:", "").strip()
+
+    # ---- parse body ----
+    body = text.split("BODY:", 1)[1] if "BODY:" in text else text
+
+    sections = [
+        {"type": "paragraph", "text": p.strip()}
+        for p in body.split("\n\n") if p.strip()
+    ]
+
     return {
-        "title": "Daily Insight",
-        "subtitle": "A calm perspective",
+        "title": title,
+        "subtitle": subtitle,
         "readingTime": 3,
-        "sections": [
-            {"type": "paragraph", "text": p.strip()}
-            for p in text.split("\n\n")
-            if p.strip()
-        ]
+        "sections": sections
     }
 
 
