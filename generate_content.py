@@ -4,7 +4,7 @@ from datetime import datetime
 
 import os
 API_KEY = os.environ["GNEWS_API_KEY"]
-URL = f"https://gnews.io/api/v4/top-headlines?lang=en&max=10&token={API_KEY}"
+URL = f"https://gnews.io/api/v4/top-headlines?lang=en&max=50&token={API_KEY}"
 
 response = requests.get(URL)
 data = response.json()
