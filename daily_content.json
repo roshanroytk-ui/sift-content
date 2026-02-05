@@ -1,17 +1,33 @@
 {
-  "updatedAt": "2026-02-05T18:55:24.930514",
+  "updatedAt": "2026-02-05T19:31:54.634875",
   "insight": {
     "title": "Daily Insight",
-    "subtitle": "AI temporarily unavailable",
-    "readingTime": 1,
+    "subtitle": "A calm perspective",
+    "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Insight will refresh tomorrow."
+        "text": "We live in a world obsessed with linear progress\u2014a straight line up and to the right. We want to see immediate, visible returns on every hour spent, every new skill acquired, and every dollar invested. This intense focus on short-term efficacy often blinds us to the dynamics of true, long-term growth. The most profound shifts in our personal, professional, and collective trajectories rarely conform to the expected rhythm of immediate gratification. They are governed instead by non-linear dynamics, where the initial, seemingly trivial effort is disproportionately small to the eventual, cumulative outcome. This principle is especially visible when bridging the domains of intellectual curiosity and technological adoption."
+      },
+      {
+        "type": "paragraph",
+        "text": "Consider the phenomenon of compounding interest, not just financially, but intellectually. When you dedicate twenty focused minutes each day to understanding a foundational concept\u2014perhaps the mechanics of artificial intelligence, or the historical cycles of market behavior\u2014the first few weeks feel slow. The marginal utility of that initial learning seems low, often frustratingly so. However, as these small, distinct pieces of knowledge begin to interconnect, they form an intellectual infrastructure. This growing structure rapidly reduces \"informational friction,\" making the next piece of data exponentially easier to integrate, contextualize, and utilize practically. Technology often acts as the powerful accelerant here; mastering a new digital tool today does not just provide a singular skill, but increases your capacity for leveraging future, yet-to-be-invented tools. The immediate return on this quiet investment is invisible, then suddenly, powerfully apparent."
+      },
+      {
+        "type": "paragraph",
+        "text": "The essential lesson for our daily lives is one of quiet consistency over frantic intensity. We do not need to chase every fleeting headline or panic over short-term volatility, whether in the market, in our skill acquisition, or in global trends. Instead, the focus must shift to the steady cultivation of intellectual capital and durable systems. View today\u2019s small, intentional effort\u2014the deliberate reading of that dense paper, the testing of that unfamiliar piece of software\u2014not as a burden demanding instant proof of efficacy, but as another tiny, robust brick laid down in your personal infrastructure. Trust that the future value of this consistent, small investment will not merely add up; it will multiply. This is the quiet optimism inherent in long-term thinking: the deep knowledge that the greatest breakthroughs are the result of patient, compounding effort."
       }
     ]
   },
   "news": [
+    {
+      "title": "Ex-Celtics Coach 'Embarrassed' By Rockets' Disastrous Loss To Boston",
+      "description": "Houston Rockets head coach Ime Udoka was ashamed of his team's awful performance against the Boston Celtics on Wednesday.",
+      "source": "NESN",
+      "url": "https://nesn.com/2026/02/ex-celtics-coach-embarrassed-by-rockets-disastrous-loss-to-boston/",
+      "category": "General",
+      "readingTime": 2
+    },
     {
       "title": "Edge Chips in Japan in Win for Takaichi",
       "description": "Taiwan Semiconductor Manufacturing Co. plans to make advanced 3-nanometer chips in Japan, stepping up its semiconductor manufacturing roadmap in the country in a triumph for Prime Minister Sanae Takaichi\u2019s technology ambitions.",
@@ -85,10 +101,34 @@
       "readingTime": 2
     },
     {
-      "title": "Vance is in Milan for the Winter Olympics",
-      "description": "Vice President JD Vance landed in Milan to lead President Donald Trump\u2019s delegation to the 2026 Winter Olympics.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/vance-winter-olympics-armenia-azerbaijan-c3bd416df3afa3e64a5c29d9c438e8e5",
+      "title": "Maersk delivered a strong 2025 with progress across the business",
+      "description": "Maersk delivered a strong performance in all businesses in 2025 with results reaching top-end of financial guidance",
+      "source": "Maersk",
+      "url": "https://www.maersk.com/news/articles/2026/02/05/maersk-strong-performance-2025-business-progress",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Breakthrough Fingerstick Test Set To Revolutionise Hepatitis B Screening",
+      "description": "A world-first Australian trial shows a simple fingerstick test can accurately detect hepatitis B DNA within an hour",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/health/breakthrough-fingerstick-test-set-to-revolutionise-hepatitis-b-screening-10950294",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "4K Smart TVs at half price: 43-Inch models start at Rs 13,999; where to buy",
+      "description": "Amazon is offering massive discounts on 43-inch 4K smart TVs from Samsung, Xiaomi, Philips, TCL and VW, with prices starting at Rs 13,999.",
+      "source": "India TV News",
+      "url": "https://www.indiatvnews.com/technology/news/4k-smart-tvs-at-half-price-43-inch-models-start-at-rs-13-999-where-to-buy-2026-02-05-1028999",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "2026 Winter Olympics: Host Country, Dates, Schedule, Sports, and India Participation",
+      "description": "2026 Winter Olympics will be held in Italy. Check host country, dates, schedule, sports list, and India's participation for exams.",
+      "source": "Adda247",
+      "url": "https://currentaffairs.adda247.com/winter-olympics-2026-milano-cortina-complete-schedule-events-and-key-details/",
       "category": "General",
       "readingTime": 2
     },
@@ -141,194 +181,82 @@
       "readingTime": 2
     },
     {
-      "title": "All the Broadcast details for ICC Men\u2019s T20 World Cup 2026",
-      "description": "Wherever you are based around the world, you will be able to tune into the Men's T20 World Cup 2026, starting February 7. Here are the global broadcast details.",
-      "source": "ICC",
-      "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-the-broadcast-details-for-icc-men-s-t20-world-cup-2026",
+      "title": "Gangs imitating pensioners\u2019 voices to empty their bank accounts",
+      "description": "Fraudsters harvest financial information in spurious phone surveys to set up fake direct debits",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/2026/02/05/gangs-imitate-pensioners-voices-empty-bank-accounts-ai/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Tecno Pova Curve 2 5G launching in India on February 13: Design and key features revealed",
-      "description": "Tecno Pova Curve 2 5G smartphone is officially confirmed to launch in India on February 13. Check expected specifications, price, availability and more.\u00a0| Technology News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/technology/tecno-pova-curve-2-5g-launching-in-india-on-february-13-design-and-key-features-revealed-101770269103203.html",
+      "title": "Live updates as police 'incident' shuts road with 'avoid area' alert",
+      "description": "Police are at the scene of the emergency",
+      "source": "North Wales Live",
+      "url": "https://www.dailypost.co.uk/news/north-wales-news/live-updates-police-incident-shuts-33366086",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Never praised 'Vishwaguru': Naseeruddin Shah links university snub to political views",
-      "description": "Naseeruddin Shah said he was disinvited at the last minute from Mumbai University's Jashn-e-Urdu event and later falsely accused of refusing to attend. He linked the issue to his political crticism, citing \"the Vishwaguru\" he never praised.",
-      "source": "India Today",
-      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-alleges-last-minute-disinvite-from-university-event-2863389-2026-02-05",
+      "title": "DPS helicopter crashes with police shooting suspect arrested",
+      "description": "A woman who lives in the area said that 'there was a very large crash'.",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/news/world/2166995/dps-helicopter-crashes-police-shooting",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "A newborn\u2019s death likely linked to the mom drinking raw milk while pregnant",
-      "description": "A newborn baby died from a listeria infection likely linked to the child\u2019s mother drinking raw milk during pregnancy, health officials said.",
-      "source": "The Sen Times",
-      "url": "https://thesentimes.com/a-newborns-death-likely-linked-to-the-mom-drinking-raw-milk-while-pregnant/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "FTSE 100 Live: Trillion-dollar tech sell-off rocks global markets",
-      "description": "Welcome back to the City AM liveblog, we'll be bringing you the latest top stories of the morning from the FTSE 100 and City.",
-      "source": "City AM",
-      "url": "https://www.cityam.com/ftse-100-live-tech-sell-off-ai-trillion-bank-of-england-interest-rate-cut-hold/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Workers urge Target and US firms to speak up over ICE raids",
-      "description": "Workers are writing letters, staging strikes and in some cases resigning over how bosses are handling the immigration crackdown.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4y4gwjpeo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "'A diamond of a man'",
-      "description": "FRIENDS of a \"loving\" dad-of-five who tragically died after a motorbike crash have rallied around his heartbroken partner.\nGary Pidgley, 48, was...",
+      "title": "Major UK bridge used by 35,000 drivers a DAY is closed due to strong wind as Met Office warns of SNOW & heavy rain",
+      "description": "A MAJOR UK bridge with more than 35,000 daily crossings has been forced to close - as Brits are braced for heavy rain and snow.\nRush-hour...",
       "source": "The Sun",
-      "url": "https://www.thesun.co.uk/news/38126116/dad-killed-motorbike-crash-pictured-partner-pays-tribute/",
+      "url": "https://www.thesun.co.uk/news/38126156/uk-bridge-closed-strong-wind-met-office-warns-snow/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Katie Price issues statement after fears over 'too soon' wedding",
-      "description": "Katie Price will be 'pausing' her self-titled podcast following her whirlwind engagement and wedding to Lee Andrews, it has been announced",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/breaking-katie-price-pauses-huge-36672712",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Winter Olympics 2026: How do extreme skiers overcome fear of serious injury?",
-      "description": "What do you do if you fall 40 feet on to hard-packed snow? If you're a Winter Olympics athlete, you pick yourself up and try again.",
+      "title": "Louth motorcycle crash victim was 'loving' dad-of-five",
+      "description": "Gary Pidgley, 48, died at the scene after his motorcycle was involved in a collision with a van.",
       "source": "BBC",
-      "url": "https://www.bbc.com/sport/articles/c3r1w1vp2ldo",
+      "url": "https://www.bbc.co.uk/news/articles/c338gv2pd4zo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "RSV vaccine campaign launched to protect elderly",
-      "description": "About 1,500 people aged over 75 in the county are yet to take up the free vaccination.",
+      "title": "Bank of England governor announces \u2018good news\u2019 on inflation after holding interest rates, and \u2018shock\u2019 over Mandelson - business live",
+      "description": "Bank splits 5-4 on interest rate decision, and hints that interest rate cuts are coming",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/live/2026/feb/05/bank-of-england-interest-rates-european-central-bank-inflation-stock-markets-business-live-news-updates",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Hamlet review - Riz Ahmed\u2019s tortured prince drives chilling modern take through London\u2019s streets",
+      "description": "Timothy Spall and Art Malik co-star in Aneil Karia\u2019s intelligent and stark retelling of Shakespeare\u2019s tragedy, set in the world of shady family business",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/feb/05/hamlet-review-riz-ahmed-timothy-spall-art-malik-aneil-karia",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Lando Norris expects 'more chaos in races' from F1 rule changes",
+      "description": "World champion Lando Norris is anticipating \"more chaos in races\" as a result of new rule changes in Formula 1 next season.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8zd2edq3o",
+      "url": "https://www.bbc.com/sport/formula1/articles/c2d79pekr5eo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "What is groundwater flooding and why Dorset is seeing 'historical highs'",
-      "description": "With a Met Office yellow warning for rain in effect people are being warned about the dangers of groundwater flooding.",
+      "title": "Lando Norris expects 'more chaos in races' from F1 rule changes",
+      "description": "World champion Lando Norris is anticipating \"more chaos in races\" as a result of new rule changes in Formula 1 next season.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj4l7rlxzjxo",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c2d79pekr5eo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Heritage vision for RAF Scampton unveiled ahead of sale",
-      "description": "West Lindsey District Council says redeveloping RAF Scampton is a once-in-a-generation opportunity.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9qpr2481wxo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Stalker threatened to kill girl, 13, chop her up and send body parts to her mum",
-      "description": "Matthew Cooney threatened to kidnap the child, \"kill her, cut her into pieces and send her back to her mother\"",
-      "source": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/stalker-threatened-kill-girl-13-33364223",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "It's one of the biggest illegal waste dumps ever found",
-      "description": "A Liverpool ECHO investigation has unearthed \"utterly shocking criminal activity\u201d, causing serious concerns about the potential health impacts on the local community, and the enormous cost it will take to clean it up",
-      "source": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/field-merseyside-discovered-one-uks-33365025",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Kerala Assembly: Ruckus over Sabarimala gold theft row rocks House again; Speaker cuts short day\u2019s business",
-      "description": "Kerala Assembly faces chaos over Sabarimala gold theft protests; Speaker curtails session amid demands for MGNREGS restoration.",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-ruckus-over-sabarimala-gold-theft-row-rocks-house-again-speaker-cuts-short-days-business/article70594656.ece",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "IndiGo shares down nearly 4% as CCI orders detailed probe for unfair business practices",
-      "description": "CCI ordered a detailed probe against IndiGo for unfair business practices, nearly two months after it cancelled thousands of flights due to operational issues,",
-      "source": "The New Indian Express",
-      "url": "https://www.newindianexpress.com/business/2026/Feb/05/indigo-shares-down-nearly-4-pc-as-cci-orders-detailed-probe-for-unfair-business-practices",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Silver, bitcoin and parts of the tech sector are taking a heavy battering",
-      "description": "The software sector is continuing to be purged in the United States. Fears that artificial intelligence could upend business software are unnerving investors, who are using the opportunity to...\n-February 05, 2026 at 01:53 am EST\n- MarketScreener",
-      "source": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/silver-bitcoin-and-parts-of-the-tech-sector-are-taking-a-heavy-battering-ce7e5adbdb8ef32d",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Affordability gap remains for first-time buyers and TikTok fesses up on harmful social media content",
-      "description": "Business Today: The best news, analysis and comment from The Irish Times business desk",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/02/05/affordability-gap-remains-for-first-time-buyers-and-tiktok-fesses-up-on-harmful-social-media-content/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Boeing Layoffs: Aircraft giant to cut 300 jobs from defence division, workers to be notified this week",
-      "description": "Boeing will cut 300 jobs from its defence supply chain division as part of a strategic workforce realignment, even as the aircraft maker continues hiring across other business units.",
-      "source": "India.com",
-      "url": "https://www.india.com/business/boeing-layoffs-aircraft-giant-to-cut-300-jobs-from-defence-division-workers-to-be-notified-this-week-8293765/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Boeing to cut around 300 defense supply chain jobs",
-      "description": "Boeing Co is eliminating about 300 supply chain jobs from its defense division, and is notifying affected workers this week.| Business News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/business/boeing-to-cut-around-300-defense-supply-chain-jobs-101770271862436.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "ArcelorMittal South Africa narrows loss after shutting long steel operations",
-      "description": "ArcelorMittal South Africa said on Thursday it narrowed its full-year loss by 34% on the back of lower raw material costs and after closing its money-losing long steel business.",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/arcelormittal-south-africa-narrows-loss-after-shutting-long-steel-operations-2026-02-05/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Mitsubishi Corp CFO: expecting a recovery in production volumes in our Australian coking coal business by fiscal 2027, supported by productivity improvement measures implemented to date",
-      "description": "Mitsubishi Corp:\nMitsubishi Corp CFO: We are in discussions with partners regarding LNG Canada's production capacity expansion; the timing of final investment decision remains...",
-      "source": "MarketScreener",
-      "url": "https://www.marketscreener.com/news/mitsubishi-corp-cfo-expecting-a-recovery-in-production-volumes-in-our-australian-coking-coal-busin-ce7e5adbdb8ff02d",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Delhi Businessman Mukesh Kumar Beaten by Group for Stopping Them from Harassing Women at Mehrauli Tea Stall; Disturbing Video Goes Viral",
-      "description": "Delhi Businessman Mukesh Kumar Beaten by Group for Stopping Them from Harassing Women at Mehrauli Tea Stall; Disturbing Video Goes Viral - Mukesh Kumar, a Delhi resident who runs a transport business, was brutally assaulted by a group of unidentified men ... Get Latest News on National only on lokmattimes.com",
-      "source": "Lokmat Times",
-      "url": "https://www.lokmattimes.com/national/delhi-businessman-mukesh-kumar-beaten-by-group-for-stopping-them-from-harassing-women-at-mehrauli-tea-stall-disturbing-video-goes-viral-a517/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Flood defence saves New Ross homes and businesses from dangerously high river levels - \u2018We understand the trauma of flooding\u2019",
-      "description": "As families and business owners are left devastated by the damage caused by Storm Chandra in Enniscorthy, the people in the neighbouring town of New Ross are counting their blessings that they are behind the sturdy walls of the town\u2019s completed flood defence system.",
-      "source": "Independent.ie",
-      "url": "https://www.independent.ie/regionals/wexford/new-ross-news/flood-defence-saves-new-ross-homes-and-businesses-from-dangerously-high-river-levels-we-understand-the-trauma-of-flooding/a588260985.html",
+      "title": "NHS to use paper clip-sized implant to monitor heart failure",
+      "description": "The sensor is designed to flag early warning signs, reducing the number of patients needing emergency treatment",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/2026/02/05/nhs-to-use-paper-clip-sized-implant-monitor-heart-failure/",
       "category": "General",
       "readingTime": 2
     }
