@@ -11,16 +11,6 @@ data = response.json()
 articles = []
 
 for item in data.get("articles", []):
-    text = (item.get("title", "") + item.get("description", "")).lower()
-
-    blocked = [
-        "crime", "murder", "killed", "violence", "attack", "terror",
-        "celebrity", "movie", "film", "sports", "match", "gossip"
-    ]
-
-    if any(word in text for word in blocked):
-        continue
-
     articles.append({
         "title": item.get("title", ""),
         "description": item.get("description", ""),
