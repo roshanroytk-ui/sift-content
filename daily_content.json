@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-05T17:22:23.071492",
+  "updatedAt": "2026-02-05T17:48:55.225804",
   "insight": {
     "title": "How money is created out of thin air",
     "subtitle": "Why banks can create money when they lend",
@@ -45,6 +45,14 @@
   },
   "news": [
     {
+      "title": "UAW secures historic tentative contract deal at Volkswagen plant in Tennessee",
+      "description": "The UAW has secured a tentative agreement with Volkswagen in Chattanooga, Tennessee, promising 20% raises, health care cost cuts and bonuses for workers.",
+      "source": "The Detroit News",
+      "url": "https://www.detroitnews.com/story/business/autos/2026/02/04/uaw-strikes-historic-tentative-contract-deal-at-volkswagen-plant-in-tennessee/88521098007/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
       "title": "Brad Karp: Wall Street law firm boss resigns after emails to Epstein released",
       "description": "The chairman of Paul Weiss dined with Jeffrey Epstein and sought his help getting his son a job with a Woody Allen film production",
       "source": "The Guardian",
@@ -73,6 +81,14 @@
       "description": "The expiration of the last remaining nuclear treaty between the United States and Russia on Thursday has sparked fears about a nuclear arms race, with the two biggest nuclear superpowers without limits on their arsenals for the first time in decades.",
       "source": "CNN",
       "url": "https://www.cnn.com/2026/02/05/politics/fears-nuclear-arms-race-treaty-expires",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Bad Bunny to discuss Super Bowl halftime show",
+      "description": "Bad Bunny is expected to perform solely in Spanish during the Super Bowl halftime show, highlighting Latin identity at America\u2019s most-watched event.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-f441549a00166a39309233f689163105",
       "category": "General",
       "readingTime": 2
     },
@@ -109,18 +125,34 @@
       "readingTime": 2
     },
     {
-      "title": "Finneas Defends Billie Eilish's Grammy Speech from 'Old White Men'",
-      "description": "Finneas defended his superstar sister Billie Eilish from 'very powerful old white men' who are 'outraged' about her Grammys acceptance speech.",
-      "source": "Variety",
-      "url": "https://variety.com/2026/music/news/finneas-billie-eilish-grammy-speech-epstein-files-1236652693/",
+      "title": "All the Broadcast details for ICC Men\u2019s T20 World Cup 2026",
+      "description": "Wherever you are based around the world, you will be able to tune into the Men's T20 World Cup 2026, starting February 7. Here are the global broadcast details.",
+      "source": "ICC",
+      "url": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/all-the-broadcast-details-for-icc-men-s-t20-world-cup-2026",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Intelligence director Tulsi Gabbard\u2019s office obtained and tested voting machines in Puerto Rico",
-      "description": "The Office of Director of National Intelligence Tulsi Gabbard obtained voting machines from Puerto Rico and probed them for security vulnerabilities, the office said in a statement to CNN on Wednesday.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/02/04/politics/gabbard-office-obtained-voting-machines-puerto-rico",
+      "title": "Tecno Pova Curve 2 5G launching in India on February 13: Design and key features revealed",
+      "description": "Tecno Pova Curve 2 5G smartphone is officially confirmed to launch in India on February 13. Check expected specifications, price, availability and more.\u00a0| Technology News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/technology/tecno-pova-curve-2-5g-launching-in-india-on-february-13-design-and-key-features-revealed-101770269103203.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Never praised 'Vishwaguru': Naseeruddin Shah links university snub to political views",
+      "description": "Naseeruddin Shah said he was disinvited at the last minute from Mumbai University's Jashn-e-Urdu event and later falsely accused of refusing to attend. He linked the issue to his political crticism, citing \"the Vishwaguru\" he never praised.",
+      "source": "India Today",
+      "url": "https://www.indiatoday.in/movies/celebrities/story/naseeruddin-shah-alleges-last-minute-disinvite-from-university-event-2863389-2026-02-05",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "A newborn\u2019s death likely linked to the mom drinking raw milk while pregnant",
+      "description": "A newborn baby died from a listeria infection likely linked to the child\u2019s mother drinking raw milk during pregnancy, health officials said.",
+      "source": "The Sen Times",
+      "url": "https://thesentimes.com/a-newborns-death-likely-linked-to-the-mom-drinking-raw-milk-while-pregnant/",
       "category": "General",
       "readingTime": 2
     },
@@ -173,34 +205,10 @@
       "readingTime": 2
     },
     {
-      "title": "Top 10 Affordable 4K Smart TVs with Stunning Picture and Sound",
-      "description": "Top 10 Affordable 4K Smart TVs with Stunning Picture and Sound",
-      "source": "Observer Voice",
-      "url": "https://observervoice.com/top-10-affordable-4k-smart-tvs-with-stunning-picture-and-sound-180545/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "'Dhurandhar 2 The Revenge' OTT rights get sold for Rs 150 crore; makers strike MASSIVE digital deal",
-      "description": "After massive box office success, 'Dhurandhar' premiered on OTT on January 30, 2026. The makers soon dropped the first teaser of 'Dhurandhar 2: The Re.",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-the-revenge-ott-rights-get-sold-for-rs-150-crore-makers-strike-massive-digital-deal/articleshow/127923509.cms",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Targeted therapies giving good results: Docs",
-      "description": "Madurai: Advanced targeted and precision therapies that act selectively on cancer cells and spare healthy tissue have significantly improved treatment.",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/targeted-therapies-giving-good-results-docs/articleshow/127918374.cms",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Sensex down 500 pts, Nifty near 25,600; key factors behind market decline",
-      "description": "Sensex, Nifty declined amid profit booking after a three-day rally due to weak trend in global stock markets.",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/sensex-down-400-pts-nifty-below-25-650-weak-global-cues-among-key-factors-behind-market-decline-13812088.html",
+      "title": "Valve admits its Steam Machine and Steam Frame will be delayed due to RAM and storage price surges",
+      "description": "Valve has confirmed that its Steam Machine, Steam Frame and Steam Controller hardware releases, previously expected in Q1 2026, have been delayed. Here's why.",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/valve-admits-its-steam-machine-and-steam-frame-will-be-delayed-due-to-ram-and-storage-price-surges",
       "category": "General",
       "readingTime": 2
     },
@@ -277,10 +285,82 @@
       "readingTime": 2
     },
     {
-      "title": "Arne Slot deserves more time but two players may have changed Liverpool dressing room",
-      "description": "Former Liverpool striker Stan Collymore has given his verdict on Arne Slot's future and the difference potentially made by summer signings of Florian Wirtz and Alexander Isak",
-      "source": "Liverpool Echo",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/arne-slot-deserves-more-time-33311401",
+      "title": "Gold, silver price prediction today: Gold, silver back on track for gains? Here's the outlook",
+      "description": "India Business News: Gold and silver price prediction: Gold and silver prices have resumed their upward momentum after the recent crash, signalling bullish momentum, says .",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-february-05-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/127922328.cms",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "How NEMT Providers Can Improve Strategic Management and Logistics Planning",
+      "description": "Efficiency is more than a business goal for non-emergency medical transportation (NEMT) providers. Every late pickup or missed appointment can directly affect a patient\u2019s health and quality of life. At the same time, rising operational costs, staffing challenges, and increasing demand place constant pressure on the organization. Through better strategic management and logistics planning, you [\u2026]",
+      "source": "TechBullion",
+      "url": "https://techbullion.com/how-nemt-providers-can-improve-strategic-management-and-logistics-planning/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Manipur Governor Ajay Bhalla convenes assembly session at 4pm today",
+      "description": "Ahead of the assembly session, a meeting of the Business Advisory Committee is likely to be held at 3pm.",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/cities/others/manipur-governor-ajay-bhalla-convenes-assembly-session-at-4pm-today-101770270143803.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Wired Wisdom: Telecom\u2019s NUF debate, Stuffcool ChargeCube 65, and a near miss",
+      "description": "Beyond the regular noise, a closer look. 5 February 2026.| Business News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/business/wired-wisdom-telecom-s-nuf-debate-stuffcool-chargecube-65-and-a-near-miss-101770269360014.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Anil Ambani\u2019s Reliance Power Shares Fall After 2",
+      "description": "Anil Ambani\u2019s Reliance Power Shares Fall After 2-Day Rally; Stock Slides 38% in 6 Months - Shares of Anil Ambani-led Reliance Power Ltd (NSE: RPOWER)\u00a0fell on Thursday, ending a short-lived two-day recovery. The stock dropped ... Get Latest News on Business only on lokmattimes.com",
+      "source": "Lokmat Times",
+      "url": "https://www.lokmattimes.com/business/anil-ambanis-reliance-power-shares-fall-after-2-day-rally-stock-slides-38-in-6-months-a475/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Working from anywhere is the future, with co-working spaces as part of the solution, says JustCo CEO",
+      "description": "Business has been profitable the past three years; firm opens its first luxury workstation in Singapore. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/working-from-anywhere-is-the-future-with-co-working-spaces-as-part-of-the-solution-says-justco-ceo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Gold slips around 1 pc, silver prices plummet 8 pc",
+      "description": "Gold slips around 1 pc, silver prices plummet 8 pc - Mumbai, Feb 5 Gold prices fell moderately on Thursday after two days of surge, while silver posted a ... Get Latest News on Business only on lokmattimes.com",
+      "source": "Lokmat Times",
+      "url": "https://www.lokmattimes.com/business/gold-slips-around-1-pc-silver-prices-plummet-8-pc/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Democrats blast US SBA ban on green card owners in US",
+      "description": "Democrats blast US SBA ban on green card owners in US - Washington, Feb 5 Top Democrats have criticised a new Small Business Administration policy that blocks businesses owned by ... Get Latest News on International only on lokmattimes.com",
+      "source": "Lokmat Times",
+      "url": "https://www.lokmattimes.com/international/democrats-blast-us-sba-ban-on-green-card-owners-in-us/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "India\u2019s REITs and InvITs surpass traditional indices in giving returns in 2025",
+      "description": "India\u2019s REITs and InvITs surpass traditional indices in giving returns in 2025 - Mumbai, Feb 5 Listed Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) in 2025 significantly outperformed ... Get Latest News on Business only on lokmattimes.com",
+      "source": "Lokmat Times",
+      "url": "https://www.lokmattimes.com/business/indias-reits-and-invits-surpass-traditional-indices-in-giving-returns-in-2025/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Elon Musk\u2019s companies plan to build AI data centres, in space",
+      "description": "Musk and combined synergies of SpaceX and xAI believe orbital data centres begins the process towards becoming a Kardashev II-level civilisation.| Business News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/business/elon-musk-s-companies-plan-to-build-ai-data-centres-in-space-101770269484327.html",
       "category": "General",
       "readingTime": 2
     }
