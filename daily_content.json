@@ -1,25 +1,41 @@
 {
-  "updatedAt": "2026-02-05T19:31:54.634875",
+  "updatedAt": "2026-02-05T19:52:05.936336",
   "insight": {
     "title": "Daily Insight",
     "subtitle": "A calm perspective",
-    "readingTime": 3,
+    "readingTime": 1,
     "sections": [
       {
         "type": "paragraph",
-        "text": "We live in a world obsessed with linear progress\u2014a straight line up and to the right. We want to see immediate, visible returns on every hour spent, every new skill acquired, and every dollar invested. This intense focus on short-term efficacy often blinds us to the dynamics of true, long-term growth. The most profound shifts in our personal, professional, and collective trajectories rarely conform to the expected rhythm of immediate gratification. They are governed instead by non-linear dynamics, where the initial, seemingly trivial effort is disproportionately small to the eventual, cumulative outcome. This principle is especially visible when bridging the domains of intellectual curiosity and technological adoption."
-      },
-      {
-        "type": "paragraph",
-        "text": "Consider the phenomenon of compounding interest, not just financially, but intellectually. When you dedicate twenty focused minutes each day to understanding a foundational concept\u2014perhaps the mechanics of artificial intelligence, or the historical cycles of market behavior\u2014the first few weeks feel slow. The marginal utility of that initial learning seems low, often frustratingly so. However, as these small, distinct pieces of knowledge begin to interconnect, they form an intellectual infrastructure. This growing structure rapidly reduces \"informational friction,\" making the next piece of data exponentially easier to integrate, contextualize, and utilize practically. Technology often acts as the powerful accelerant here; mastering a new digital tool today does not just provide a singular skill, but increases your capacity for leveraging future, yet-to-be-invented tools. The immediate return on this quiet investment is invisible, then suddenly, powerfully apparent."
-      },
-      {
-        "type": "paragraph",
-        "text": "The essential lesson for our daily lives is one of quiet consistency over frantic intensity. We do not need to chase every fleeting headline or panic over short-term volatility, whether in the market, in our skill acquisition, or in global trends. Instead, the focus must shift to the steady cultivation of intellectual capital and durable systems. View today\u2019s small, intentional effort\u2014the deliberate reading of that dense paper, the testing of that unfamiliar piece of software\u2014not as a burden demanding instant proof of efficacy, but as another tiny, robust brick laid down in your personal infrastructure. Trust that the future value of this consistent, small investment will not merely add up; it will multiply. This is the quiet optimism inherent in long-term thinking: the deep knowledge that the greatest breakthroughs are the result of patient, compounding effort."
+        "text": "Insight will refresh tomorrow."
       }
     ]
   },
   "news": [
+    {
+      "title": "David Ellison Takes Dig At \"Monopolistic\" Netflix In UK Open Letter",
+      "description": "David Ellison has written to the UK creative community, committing to investment and theatrical windows as Paramount pursues Warner Bros. Discovery.",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/02/paramount-david-ellison-netflix-warner-open-letter-1236709783/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Gold and silver prices after historic sell-off: What's next",
+      "description": "Gold and silver are showing tentative signs of recovery after an intense sell-off. Here's where investment banks see the metals going.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/02/05/will-gold-silver-price-rise-2026-sell-off-slv-spot.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "NYPD officer shoots mentally ill man with knife in Queens apartment",
+      "description": "NYPD bodycam footage shows an officer shooting a man who allegedly charged with a knife during what family says was a mental health episode, renewing debate over how police respond to those calls.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/bodycam-shows-nypd-officer-shooting-knife-wielding-man-mamdani-calls-no-charges",
+      "category": "General",
+      "readingTime": 2
+    },
     {
       "title": "Ex-Celtics Coach 'Embarrassed' By Rockets' Disastrous Loss To Boston",
       "description": "Houston Rockets head coach Ime Udoka was ashamed of his team's awful performance against the Boston Celtics on Wednesday.",
@@ -73,190 +89,6 @@
       "description": "The Cavs have won nine of their last 11 games. They are now fourth in the Eastern Conference \u2014 and look primed to continue this ascension, especially given this week\u2019s roster enhancements.",
       "source": "Cleveland.com",
       "url": "https://www.cleveland.com/cavs/2026/02/cavs-clobber-clippers-124-91-in-weird-game-with-darius-garland-seated-courtside.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "UAW secures historic tentative contract deal at Volkswagen plant in Tennessee",
-      "description": "The UAW has secured a tentative agreement with Volkswagen in Chattanooga, Tennessee, promising 20% raises, health care cost cuts and bonuses for workers.",
-      "source": "The Detroit News",
-      "url": "https://www.detroitnews.com/story/business/autos/2026/02/04/uaw-strikes-historic-tentative-contract-deal-at-volkswagen-plant-in-tennessee/88521098007/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Brad Karp: Wall Street law firm boss resigns after emails to Epstein released",
-      "description": "The chairman of Paul Weiss dined with Jeffrey Epstein and sought his help getting his son a job with a Woody Allen film production",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/feb/05/paul-weiss-chairman-brad-karp-resigns-epstein-emails",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Housecleaner said multiple illnesses tied to Las Vegas house with possible bio lab: Police report",
-      "description": "The cleaning woman said she and a handyman both got \"deathly ill\" after going into the garage,\" the police report said.",
-      "source": "ABC News",
-      "url": "https://abcnews.go.com/US/housecleaner-multiple-illnesses-tied-las-vegas-house-bio/story?id=129865238",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Maersk delivered a strong 2025 with progress across the business",
-      "description": "Maersk delivered a strong performance in all businesses in 2025 with results reaching top-end of financial guidance",
-      "source": "Maersk",
-      "url": "https://www.maersk.com/news/articles/2026/02/05/maersk-strong-performance-2025-business-progress",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Breakthrough Fingerstick Test Set To Revolutionise Hepatitis B Screening",
-      "description": "A world-first Australian trial shows a simple fingerstick test can accurately detect hepatitis B DNA within an hour",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/health/breakthrough-fingerstick-test-set-to-revolutionise-hepatitis-b-screening-10950294",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "4K Smart TVs at half price: 43-Inch models start at Rs 13,999; where to buy",
-      "description": "Amazon is offering massive discounts on 43-inch 4K smart TVs from Samsung, Xiaomi, Philips, TCL and VW, with prices starting at Rs 13,999.",
-      "source": "India TV News",
-      "url": "https://www.indiatvnews.com/technology/news/4k-smart-tvs-at-half-price-43-inch-models-start-at-rs-13-999-where-to-buy-2026-02-05-1028999",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "2026 Winter Olympics: Host Country, Dates, Schedule, Sports, and India Participation",
-      "description": "2026 Winter Olympics will be held in Italy. Check host country, dates, schedule, sports list, and India's participation for exams.",
-      "source": "Adda247",
-      "url": "https://currentaffairs.adda247.com/winter-olympics-2026-milano-cortina-complete-schedule-events-and-key-details/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Mumbai shocker: Father identified as rapist after DNA test of 16 men",
-      "description": "The police found that the girl had been sexually assaulted by several people who took advantage of her disability.| India News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/india-news/mumbai-shocker-father-identified-as-rapist-after-dna-test-of-16-men-101770265426656.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "MPC Poll | RBI likely to hold rates in February policy, focus shifts to liquidity management, transmission",
-      "description": "The February policy is expected maintain the repo rate at 5.25% as the RBI shifts focus from rate cuts to liquidity infusion, experts say.",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/banking/mpc-poll-rbi-likely-to-hold-rates-in-february-policy-focus-shifts-to-liquidity-management-transmission-article-13812419.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "InterGlobe Aviation shares fall over 3.5% as CCI orders detailed probe for unfair business practices",
-      "description": "InterGlobe Aviation share price: The CCI on Wednesday ordered a detailed probe against IndiGo for unfair business practices, nearly two months after the country's largest airline cancelled thousands of flights due to operational issues, causing hardships to passengers.",
-      "source": "Upstox",
-      "url": "https://upstox.com/news/market-news/stocks/inter-globe-aviation-shares-fall-over-3-5-as-cci-orders-detailed-probe-for-unfair-business-practices/article-188979/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Silver ETFs down up to 16%: Here is how you may be misreading the fall",
-      "description": "Silver ETFs can sometimes perform worse than silver during sharp price corrections due to temporary divergences between the ETF\u2019s traded price and its iNAV/NAV",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/personal-finance/silver-etfs-down-up-to-16-here-is-how-you-may-be-misreading-the-fall-13812379.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "\"Ship Has Sailed...\": Ramesh Damani Sees Ominous Signs For Indian IT Amid Anthropic Buzz",
-      "description": "Talking about the road ahead for Indian IT in the midst of this AI-led productivity shift, Ramesh Damani said that while business will continue, the \"next 10-20 years will be led by a different set of leaders than what we saw in the post-1992 era.\"",
-      "source": "NDTV Profit",
-      "url": "https://www.ndtvprofit.com/markets/ramesh-damanis-warning-to-indian-it-firms-like-infosys-wipro-tcs-as-anthropics-ai-disrupts-it-10950027",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "BREAKING| Jan Suraaj Party Moves Supreme Court Challenging Bihar Elections, Questions Direct Transfer Of Rs 10K To Women",
-      "description": "The Jan Suraaj Party floated by Prashant Kishore has filed a writ petition in the Supreme Court challenging the Bihar Assembly Elections, 2025 on account of illegal practices and seeking fresh...",
-      "source": "Live Law",
-      "url": "https://www.livelaw.in/top-stories/prashant-kishore-jan-suraaj-party-moves-supreme-court-challenging-bihar-elections-questions-direct-transfer-of-rs-10k-to-women-521959",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Gangs imitating pensioners\u2019 voices to empty their bank accounts",
-      "description": "Fraudsters harvest financial information in spurious phone surveys to set up fake direct debits",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/news/2026/02/05/gangs-imitate-pensioners-voices-empty-bank-accounts-ai/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Live updates as police 'incident' shuts road with 'avoid area' alert",
-      "description": "Police are at the scene of the emergency",
-      "source": "North Wales Live",
-      "url": "https://www.dailypost.co.uk/news/north-wales-news/live-updates-police-incident-shuts-33366086",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "DPS helicopter crashes with police shooting suspect arrested",
-      "description": "A woman who lives in the area said that 'there was a very large crash'.",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/news/world/2166995/dps-helicopter-crashes-police-shooting",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Major UK bridge used by 35,000 drivers a DAY is closed due to strong wind as Met Office warns of SNOW & heavy rain",
-      "description": "A MAJOR UK bridge with more than 35,000 daily crossings has been forced to close - as Brits are braced for heavy rain and snow.\nRush-hour...",
-      "source": "The Sun",
-      "url": "https://www.thesun.co.uk/news/38126156/uk-bridge-closed-strong-wind-met-office-warns-snow/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Louth motorcycle crash victim was 'loving' dad-of-five",
-      "description": "Gary Pidgley, 48, died at the scene after his motorcycle was involved in a collision with a van.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c338gv2pd4zo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Bank of England governor announces \u2018good news\u2019 on inflation after holding interest rates, and \u2018shock\u2019 over Mandelson - business live",
-      "description": "Bank splits 5-4 on interest rate decision, and hints that interest rate cuts are coming",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/live/2026/feb/05/bank-of-england-interest-rates-european-central-bank-inflation-stock-markets-business-live-news-updates",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Hamlet review - Riz Ahmed\u2019s tortured prince drives chilling modern take through London\u2019s streets",
-      "description": "Timothy Spall and Art Malik co-star in Aneil Karia\u2019s intelligent and stark retelling of Shakespeare\u2019s tragedy, set in the world of shady family business",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/feb/05/hamlet-review-riz-ahmed-timothy-spall-art-malik-aneil-karia",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Lando Norris expects 'more chaos in races' from F1 rule changes",
-      "description": "World champion Lando Norris is anticipating \"more chaos in races\" as a result of new rule changes in Formula 1 next season.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/formula1/articles/c2d79pekr5eo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Lando Norris expects 'more chaos in races' from F1 rule changes",
-      "description": "World champion Lando Norris is anticipating \"more chaos in races\" as a result of new rule changes in Formula 1 next season.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c2d79pekr5eo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "NHS to use paper clip-sized implant to monitor heart failure",
-      "description": "The sensor is designed to flag early warning signs, reducing the number of patients needing emergency treatment",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/news/2026/02/05/nhs-to-use-paper-clip-sized-implant-monitor-heart-failure/",
       "category": "General",
       "readingTime": 2
     }
