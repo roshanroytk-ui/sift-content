@@ -66,7 +66,7 @@ content = {
             }
         ]
     },
-    "news": articles[:5]
+    "news": articles
 }
 
 with open("daily_content.json", "w", encoding="utf-8") as f:
