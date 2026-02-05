@@ -44,22 +44,33 @@ for a in articles:
 articles = unique_articles
 
 def generate_insight():
-    prompt = """
-    Write a short daily insight article (300-400 words).
-    Tone: calm, intelligent, thoughtful, optimistic.
-    Topic: economics, technology, society, growth, or learning.
-    Avoid crime, negativity, or celebrity gossip.
-    Return plain paragraphs only.
-    """
+    prompt = (
+        "Write a short daily insight article (300-400 words).\n"
+        "Tone: calm, intelligent, thoughtful, optimistic.\n"
+        "Topic: economics, technology, society, growth, or learning.\n"
+        "Avoid crime, negativity, or celebrity gossip.\n"
+        "Return plain paragraphs only."
+    )
 
-    response = requests.post(
-        f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={GEMINI_KEY}",
-        json={
-            "contents": [
-                {"parts": [{"text": prompt}]}
-            ]
-        }
-    ).json()
+    url = (
+        "https://generativelanguage.googleapis.com/"
+        "v1beta/models/gemini-1.5-flash-latest:generateContent"
+        f"?key={GEMINI_KEY}"
+    )
+
+    payload = {
+        "contents": [
+            {
+                "role": "user",
+                "parts": [
+                    {"text": prompt}
+                ]
+            }
+        ]
+    }
+
+    r = requests.post(url, json=payload)
+    response = r.json()
 
     if "candidates" not in response:
         print("Gemini error:", response)
@@ -74,16 +85,17 @@ def generate_insight():
 
     text = response["candidates"][0]["content"]["parts"][0]["text"]
 
-
     return {
         "title": "Daily Insight",
         "subtitle": "A calm perspective",
         "readingTime": 3,
         "sections": [
-            {"type": "paragraph", "text": p}
-            for p in text.split("\n\n") if p.strip()
+            {"type": "paragraph", "text": p.strip()}
+            for p in text.split("\n\n")
+            if p.strip()
         ]
     }
+
 
 content = {
     "updatedAt": datetime.utcnow().isoformat(),
