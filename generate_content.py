@@ -9,6 +9,10 @@ urls = [
     f"https://gnews.io/api/v4/top-headlines?country=us&lang=en&token={API_KEY}",
     f"https://gnews.io/api/v4/top-headlines?country=in&lang=en&token={API_KEY}",
     f"https://gnews.io/api/v4/top-headlines?country=gb&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/search?q=technology&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/search?q=business&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/search?q=innovation&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/search?q=business&lang=en&token={API_KEY}",
 ]
 
 articles = []
