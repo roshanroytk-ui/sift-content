@@ -4,22 +4,38 @@ from datetime import datetime
 
 import os
 API_KEY = os.environ["GNEWS_API_KEY"]
-URL = f"https://gnews.io/api/v4/top-headlines?lang=en&max=50&token={API_KEY}"
-
-response = requests.get(URL)
-data = response.json()
+# ✅ Multiple countries to bypass 10-article limit per request
+urls = [
+    f"https://gnews.io/api/v4/top-headlines?country=us&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/top-headlines?country=in&lang=en&token={API_KEY}",
+    f"https://gnews.io/api/v4/top-headlines?country=gb&lang=en&token={API_KEY}",
+]
 
 articles = []
 
-for item in data.get("articles", []):
-    articles.append({
-        "title": item.get("title", ""),
-        "description": item.get("description", ""),
-        "source": item.get("source", {}).get("name", ""),
-        "url": item.get("url", ""),
-        "category": "General",
-        "readingTime": 2
-    })
+for u in urls:
+    response = requests.get(u).json()
+
+    for item in response.get("articles", []):
+        articles.append({
+            "title": item.get("title", ""),
+            "description": item.get("description", ""),
+            "source": item.get("source", {}).get("name", ""),
+            "url": item.get("url", ""),
+            "category": "General",
+            "readingTime": 2
+        })
+
+# ✅ remove duplicates (same story across countries)
+seen = set()
+unique_articles = []
+
+for a in articles:
+    if a["url"] not in seen:
+        seen.add(a["url"])
+        unique_articles.append(a)
+
+articles = unique_articles
 
 content = {
     "updatedAt": datetime.utcnow().isoformat(),
