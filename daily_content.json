@@ -1,342 +1,342 @@
 {
-  "updatedAt": "2026-02-06T05:40:27.608710",
+  "updatedAt": "2026-02-06T12:21:52.808866",
   "insight": {
-    "title": "The Compounding Horizon",
-    "subtitle": "Sustainable growth emerges from consistent, intentional learning.",
+    "title": "The Cost Nobody Pays",
+    "subtitle": "Understanding why some prices are fundamentally deceptive.",
     "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "We often observe the macroeconomy through the lens of exponential acceleration\u2014AI advancements, market fluctuations, global data flows. While these rapid changes define the environment, they can paradoxically obscure the quiet power of linear, consistent inputs. The challenge for the modern individual is not to match the speed of the machine, but to establish systems of learning and self-improvement that can endure its inevitable shifts and leverage technological gains without becoming overwhelmed by volatility."
+        "text": "When you buy a product, whether it is a carton of milk or a new piece of technology, you naturally assume the price you pay reflects the total resources used. This price covers tangible things: the raw materials, the labor, the electricity used to power the factory, and the profit margin for the company. We rely on the market to efficiently package all these costs together. However, a major failure point in market economics is that certain vital resources\u2014like clean air, fresh water, and environmental health\u2014are treated as free, resulting in fundamentally deceptive prices."
       },
       {
         "type": "paragraph",
-        "text": "True long-term thinking requires us to prioritize depth over breadth. In an age of infinite educational resources, the marginal value of *finding* new information is low; the greater value lies in disciplined *integration*. Dedicating a small, uninterrupted segment of time daily to structured learning\u2014whether mastering a foundational programming concept or studying historical economic cycles\u2014creates intellectual capital. This quiet accumulation builds mental resilience, insulating us from the noise of immediate societal demands and the pressure of chasing novelty."
+        "text": "Imagine a manufacturer producing goods as cheaply as possible. If that manufacturer saves money by dumping chemical runoff into a nearby river instead of paying for expensive disposal and treatment, the cost of the finished product remains artificially low. The factory owner gets the benefit of cost savings, but the surrounding community or the public health system ends up paying the actual price\u2014the fouled drinking water, the cleanup effort, and the subsequent health burden. This is a real economic cost, but because the market sends no bill for clean water, that expense is simply shifted to an uninvolved third party."
       },
       {
         "type": "paragraph",
-        "text": "This commitment to slow, deliberate accumulation is more than a personal efficiency hack; it is a sustainable economic and societal strategy. By consistently improving the quality of our own inputs, we build robust mental models capable of understanding complexity and contributing effectively to a rapidly changing world. Optimism, in this context, is not a passive feeling, but the logical expectation that disciplined effort, maintained over a sufficient period, will inevitably yield disproportionately meaningful and systemic results."
+        "text": "Economists call this mechanism a \"negative externality,\" and it explains why certain destructive activities seem surprisingly viable within a free-market system. When the ability to pollute is free, pollution becomes rampant. The only way to correct this profound market failure and align the price tag with the true planetary burden is through regulation or pricing mechanisms. By introducing things like carbon taxes or strict environmental limits, societies force producers to finally \"internalize\" those expenses\u2014meaning they must pay the cost of the cleanup\u2014so that the price on the shelf reflects the full and honest burden placed upon the world."
       }
     ]
   },
   "news": [
     {
-      "title": "Brad Karp steps down as chairman of major law firm Paul Weiss after Epstein files release",
-      "description": "Brad Karp\u2019s company, Paul Weiss, previously said he did not participate in any misconduct.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c7v02m633mjo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Google Gives Android Users the Best News on AirDrop Support",
-      "description": "AirDrop for Android will arrive on other Android phones this year, not just Pixel devices. When Google surprisingly launched AirDrop support on the Pixel 10 last year, we sort of assumed they would eventually bring the functionality to more devices. We\u2019ve already seen signs of... #AirDrop #Android",
-      "source": "Droid Life",
-      "url": "https://www.droid-life.com/2026/02/05/google-says-airdrop-for-android-coming-to-more-phones-soon/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "The Louvre Thieves Dropped This Priceless Crown. Now It Looks Like This.",
-      "description": "Empress Eug\u00e9nie\u2019s crown was left lying on the sidewalk after the Louvre Museum heist in October. The museum has now released pictures of the damage.",
+      "title": "3 Killed as Vehicle Crashes Into Grocery Store in Los Angeles",
+      "description": "Four other people were taken to a hospital, two with serious injuries and two with minor injuries, officials said.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/02/05/world/europe/louvre-heist-crown-damage-eugenie-empress.html",
+      "url": "https://www.nytimes.com/2026/02/05/us/crash-la-grocery-store-deaths.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "F.D.A. Relaxes Rules on \u2018Naturally Derived\u2019 Dyes",
-      "description": "Food makers will now be able to claim that their products have \u201cno artificial colors,\u201d so long as they use dyes that are not petroleum-based.",
+      "title": "Failure to Alert Judge to Press Law for Reporter Search Draws Ethical Scrutiny",
+      "description": "The Justice Department may have violated a candor rule by not disclosing a 1980 law when seeking a warrant for a Washington Post reporter\u2019s home.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/02/05/us/politics/kennedy-fda-food-dyes-protein.html",
+      "url": "https://www.nytimes.com/2026/02/05/us/washington-post-reporter-home-search.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Files Reveal Epstein\u2019s Money Mingled with Silicon Valley\u2019s Tech Start-Ups",
-      "description": "The disgraced financier regularly courted tech industry figures not just for their prestige but also for access to promising companies.",
+      "title": "L.A. mayor\u2019s race is in major flux, days before deadline",
+      "description": "It's unusual for so many major candidates to be on the fence about a mayoral bid so close to the filing deadline, Pomona College politics professor Sara Sadhwani said.",
+      "source": "latimes.com",
+      "url": "https://www.latimes.com/california/story/2026-02-05/la-mayors-race-is-in-major-flux-days-before-deadline",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Friends' Lisa Kudrow Begs Next Warners Owner to Preserve Studio Lot",
+      "description": "Friends star Lisa Kudrow has one big request for whoever is the next owner of Warner Bros. Discovery, which could be Netflix.",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/lisa-kudrow-next-warner-bros-owner-preserve-studio-friends-1236496618/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Trump promises Schumer funding for NY tunnel project - if Penn Station and Dulles Airport are renamed after him",
+      "description": "President Donald Trump told Senate Minority Leader Chuck Schumer last month that he was finally prepared to drop his freeze on billions of dollars in funding for a major New York infrastructure project.",
+      "source": "cnn.com",
+      "url": "https://www.cnn.com/2026/02/05/politics/schumer-trump-ny-funding-rename",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "2 dead in police helicopter crash as officers responded to 'active shooter'",
+      "description": "A police helicopter crashed Wednesday night, killing two people aboard, as authorities responded to an \"active shooter,\" incident, authorities said.",
+      "source": "ABC News",
+      "url": "https://abcnews.go.com/US/2-dead-police-helicopter-crash-officers-responded-active/story?id=129899142",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Do statins really cause those side effects? What the data shows",
+      "description": "A major Lancet review shows most statin side effects listed on drug labels occur just as often with placebo, raising the question of outdated warnings.",
+      "source": "statnews.com",
+      "url": "https://www.statnews.com/2026/02/05/statin-side-effects-evidence-lacking-lancet-study-says/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "up' Sam Prendergast struggles in Six Nations opener",
+      "description": "Following a 36-14 win for France against Ireland in the Six Nations opener at the Stade de France, here's our five takeaways from the game.",
+      "source": "Planet Rugby",
+      "url": "https://www.planetrugby.com/news/france-v-ireland-five-takeaways-as-marked-contrast-between-the-10s-sees-slow-as-dial-up-sam-prendergast-have-test-hell-want-to-forget",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Los Angeles Civic Leader Austin Beutner Drops Out of Mayor\u2019s Race",
+      "description": "Mr. Beutner, a former ally of Mayor Karen Bass, entered the contest in October. He is leaving the race weeks after the sudden death of his daughter.",
       "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/02/05/business/epstein-investments-palantir-coinbase-thiel.html",
+      "url": "https://www.nytimes.com/2026/02/05/us/los-angeles-mayor-beutner.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Analyst predicts Disney will spin off ESPN after CEO change",
-      "description": "Appearing on 'The Town with Matthew Belloni,' LightShed Media's Rich Greenfield predicted Disney will spin off ESPN.",
-      "source": "Awful Announcing",
-      "url": "https://awfulannouncing.com/espn/analyst-predicts-disney-could-spinoff-ceo-change.html",
+      "title": "Bezalel Zini, brother of Israel\u2019s security chief, arrested in bust of alleged Gaza smuggling ring",
+      "description": "The brother of Israel\u2019s security chief was arrested along with 14 others in a major police bust of an alleged smuggling ring accused of shipping crates of illegal goods into the Gaza Strip.",
+      "source": "cnn.com",
+      "url": "https://www.cnn.com/2026/02/05/middleeast/brother-shin-bet-chief-gaza-israel-smuggling-latam-intl",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Google Home struggles with IKEA buttons, Matter issues confirmed",
-      "description": "IKEA\u2019s smart home tech gets a lot of the basics \u2013 including price \u2013 right, but Matter connectivity issues are...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/02/05/google-home-struggles-with-buttons-as-ikea-confirms-matter-connectivity-issues/",
+      "title": "Taurus Horoscope Today: February 6, 2026",
+      "description": "See what the stars have in store for your sign",
+      "source": "Vogue India",
+      "url": "https://www.vogue.in/content/taurus-horoscope-today-february-6-2026",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Kyiv\u2019s great freeze",
-      "description": "Russian strikes have plunged Ukrainians into their hardest winter yet, but they still want to fight on",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/53214fda-22c2-48ea-8d62-abba78e17a87",
+      "title": "Libra Horoscope Today: February 6, 2026",
+      "description": "See what the stars have in store for your sign",
+      "source": "Vogue India",
+      "url": "https://www.vogue.in/content/libra-horoscope-today-february-6-2026",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Netflix Warner Bros Merger is \"Catastrophic\" Theater Owners Tell Senate Lawmakers",
-      "description": "Cinema United, the trade org for exhibition, has made public its remarks about the pending Netflix-Warner Bros merger to the Senate antitrust subcommittee, saying, \"If Netflix succeeds in acquiring Warner Bros.",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/02/netflix-warner-bros-theater-owners-senate-hearing-1236710094/",
+      "title": "Sagittarius Horoscope Today: February 6, 2026",
+      "description": "See what the stars have in store for your sign",
+      "source": "Vogue India",
+      "url": "https://www.vogue.in/content/sagittarius-horoscope-today-february-6-2026",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "The Secret to Mike Vrabel\u2019s Success",
-      "description": "There are plenty of football elements that explain New England\u2019s stunning turnaround, but relationships carefully built by the head coach are at the heart of it.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/nfl/secret-to-mike-vrabel-success-patriots-coach-super-bowl",
+      "title": "New iPhone launching this month with four key changes: report",
+      "description": "According to a new report today, Apple\u2019s next iPhone is launching very soon. Macwelt reports that the iPhone 17e is...",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/02/05/new-iphone-launching-soon-with-four-new-features/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "W Cricket Scorecard, Final at Vadodara, February 05, 2026",
-      "description": "Live Cricket Scoreboard: Get Royal Challengers Bengaluru Women vs Delhi Capitals Women Final, cricket scorecard, WPL 2025/26 dated February 05, 2026.",
-      "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/series/wpl-2025-26-1510059/royal-challengers-bengaluru-women-vs-delhi-capitals-women-final-1513703/full-scorecard",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Pregnant Mrunal Thakur Spotted with VD: What\u2019s Cooking?",
-      "description": "A viral set video from Hai Jawani Toh Ishq Hona Hai sparks buzz around Mrunal Thakur\u2019s role alongside Varun Dhawan.",
-      "source": "M9.news",
-      "url": "https://www.m9.news/movienews/viral-video-pregnant-mrunal-thakur-sparks-buzz-truth-out/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "NVIDIA reportedly won't release new graphics cards this year",
-      "description": "Gamers, schmamers. We have AI data centers to power!",
-      "source": "Yahoo News Singapore",
-      "url": "https://sg.news.yahoo.com/nvidia-reportedly-wont-release-graphics-173002986.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Odisha merchant navy cadet missing mid-sea near Mauritius, search underway",
-      "description": "Company records indicate Sarthak was last seen entering his cabin on the morning of February 3. Around 8:30 am, the chief officer checked on him, but the cabin was empty.",
+      "title": "Diplomacy or dagger? US pushes Iran to talks as warships close in on Gulf",
+      "description": "The US and Iran have agreed to hold talks in Oman on Friday, officials said, despite differences over Washington\u2019s push to include Iran\u2019s missile programme and Tehran\u2019s demand to limit discussions to nuclear issues.",
       "source": "India Today",
-      "url": "https://www.indiatoday.in/india/story/sarthak-mahapatra-odisha-merchant-navy-cadet-missing-aboard-vessel-mid-sea-mauritius-search-2863822-2026-02-05",
+      "url": "https://www.indiatoday.in/world/story/us-iran-talks-oman-nuclear-talks-trump-military-options-diplomacy-glbs-2863876-2026-02-06",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Kuki-Zo groups boycott tribal MLAs in Manipur government, accuse them of \u2018betrayal\u2019",
-      "description": "Kuki-Zo groups boycott tribal MLAs in Manipur, accusing them of betrayal for joining a Meitei-dominated government amid ethnic tensions.",
-      "source": "thehindu.com",
-      "url": "https://www.thehindu.com/news/national/manipur/kuki-zo-groups-boycott-tribal-mlas-in-manipur-government-accuse-them-of-betrayal/article70596470.ece",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Google confirms AirDrop is coming to all Android devices",
-      "description": "Apple's coolest feature will no longer be a Pixel-exclusive",
-      "source": "Android Police",
-      "url": "https://www.androidpolice.com/the-airdrop-news-you-were-waiting-for-has-arrived/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Rajpal Yadav surrenders at Tihar Jail after Delhi High Court denies relief in cheque-bounce cases",
-      "description": "Bollywood actor Rajpal Naurang Yadav on Thursday surrendered before the Tihar Jail authorities after the Delhi High Court refused to extend the deadli.",
+      "title": "'Every day can't be tukka': Rishabh Pant's explosive verdict on Abhishek Sharma",
+      "description": "Cricket News: India wicketkeeper-batter Rishabh Pant has singled out Abhishek Sharma as the most dangerous batter in world cricket right now, citing the youngster\u2019s.",
       "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajpal-yadav-surrenders-at-tihar-jail-after-delhi-high-court-denies-relief-in-cheque-bounce-cases/articleshow/127944627.cms",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/every-day-cant-be-tukka-rishabh-pants-explosive-verdict-on-abhishek-sharma/articleshow/127944881.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Nancy Guthrie kidnapping update: Why Savannah Guthrie's mom was abducted. New ransom details out",
-      "description": "Nancy Guthrie case update: NBC \u2018Today\u2019 show host Savannah Guthrie's mother was kidnapped last week",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-news/nancy-guthrie-kidnapping-update-why-savannah-guthries-mom-was-abducted-tommaso-cioni-annie-ransom-101770306310851.html",
+      "title": "The TCL QM5K Was Already Affordable, and Now It's an Extra $450 Off",
+      "description": "The 65-inch TCL QM5K is a great QLED TV that's on sale for 50% off.",
+      "source": "lifehacker.com",
+      "url": "https://lifehacker.com/tech/tcl-qm5k-qled-tv-deal-february-2026",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Project Vault: US to invest $1.3 billion in Reko Diq mine in Pakistan's Balochistan",
-      "description": "This project, announced by the State Department on Wednesday, aims to \u201creshape the global market for critical minerals and rare earths.\u201d | World News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/us-to-invest-1-3-billion-in-reko-diq-mine-in-pakistan-balochistan-project-vault-critical-minerals-deal-101770307494988.html",
+      "title": "Suniel Shetty defends son Ahan Shetty amid entourage costs after Border 2 success: \u2018If the producer says that he can show a bill'",
+      "description": "After Ahan Shetty\u2019s big-screen return with the war drama Border 2, Suniel Shetty has addressed long-standing rumours around his son\u2019s absence from fil.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/suniel-shetty-defends-son-ahan-shetty-amid-entourage-costs-after-border-2-success-if-the-producer-says-that-he-can-show-a-bill/articleshow/127956541.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "RBI MPC meet: What's on the table for the rate-setting panel?",
-      "description": "The Reserve Bank of India's Monetary Policy Committee is expected to hold interest rates steady at 5.25% amid supportive economic signals. Analysts anticipate a pause following cumulative rate cuts, with a focus on liquidity management and transmission of existing easing measures.",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-meet-whats-on-the-table-for-the-rate-setting-panel/articleshow/127944205.cms?from=mdr",
+      "title": "5 LCA Mk1A fighter jets fully ready for delivery to IAF: HAL",
+      "description": "India News: NEW DELHI: Rubbishing speculation of possible delays in the delivery of the first batch of indigenous LCA Mk1A fighter jets to IAF, Hindustan Aeronaut.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/5-lca-mk1a-fighter-jets-fully-ready-for-delivery-to-iaf-hal/articleshow/127955596.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Supermassive new theory on what lies at the heart of our galaxy",
-      "description": "The centre of the Milky Way may not be dominated by a gargantuan black hole after all, research suggests",
+      "title": "Liam Rosenior accuses Arsenal of lack of respect after X-rated outburst ahead of Chelsea's EFL Cup semi-final defeat",
+      "description": "Liam Rosenior has accused Arsenal of lacking respect after his X-rated outburst ahead of Chelsea's EFL Cup semi-final defeat to the Gunners. The new Blues boss was filmed screaming expletives at the Gunners' players as they encroached into the Blues' half during their respective warm-ups.",
+      "source": "Goal.com",
+      "url": "https://www.goal.com/en-gb/lists/liam-rosenior-accuses-arsenal-of-lack-of-respect-after-x-rated-outburst-ahead-of-chelsea-s-efl-cup-semi-final-defeat/bltc7b2c753906ce3b0",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "US and Iran talks to begin as fears of direct conflict continue",
+      "description": "The US has built up its military presence in the Middle East in response to Iran's violent crackdown on protests.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr57g1y8286o",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Statin pills much safer than advertised, major review finds",
+      "description": "The results, in The Lancet journal, come from trials involving more than 120,000 people comparing statins with a dummy drug or placebo.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c80142p2g00o",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Number of homeless refugees in England soars, BBC has found",
+      "description": "Analysis of government data shows numbers increased from 3,560 in 2021/22 to 19,310 in 2024/25.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cy9y3n43192o",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "The \u2018healthy\u2019 soups with more salt than a McDonald\u2019s",
+      "description": "A quarter of 481 supermarket products pose an increased risk of high blood pressure, the \u2018silent killer\u2019",
       "source": "The Times",
-      "url": "https://www.thetimes.com/uk/science/article/milky-way-galaxy-black-hole-new-research-dark-matter-nkb275nkn",
+      "url": "https://www.thetimes.com/uk/healthcare/article/tinned-soups-more-salt-mcdonalds-cheeseburger-9vc39p35f",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "US and Russia agree to resume regular military contact",
-      "description": "Channels of communication were suspended in 2021 shortly before Russia's full-scale invasion of Ukraine.",
+      "title": "Norway investigates former PM Jagland over alleged Epstein links",
+      "description": "Police say Thorbj\u00f8rn Jagland is suspected of \"aggravated corruption\", requesting for his immunity to be revoked.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cgjw30vx5z6o",
+      "url": "https://www.bbc.co.uk/news/articles/cy8y6w2nl0qo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "UKHSA warning to stop using these wipes after fatal outbreak",
-      "description": "In severe cases, this infection can lead to sepsis",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/news/health/ukhsa-warning-stop-using-wipes-36676996",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Digimon Story Time Stranger Makes The Leap To Switch 1 & 2 This July",
-      "description": "Pre-orders open today! - The legend is true, Digimon fans! After shifting over one million copies since its launch last year, Digimon Story Time Stranger is ...",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/news/2026/02/digimon-story-time-stranger-makes-the-leap-to-switch-1-and-2-this-july",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Former model turned romance frauster conned men out of thousands",
-      "description": "Gemma Kingsley bought a Porsche and paid for expensive hotel stays",
-      "source": "Gloucestershire Live",
-      "url": "https://www.gloucestershirelive.co.uk/news/gloucester-news/former-model-turned-romance-frauster-10798304",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Ski jumping: Wada responds to penis injection claims",
-      "description": "The World Anti-Doping Agency could investigate if evidence emerges that male ski jumpers are injecting their penises in a bid to improve sporting performance.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/articles/czej70jyg4eo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Gwen John: Strange Beauties review - Wales\u2019s great modern artist stuns us with the glory of solitude",
-      "description": "In a superb, mystical retrospective, the painter sheds social trappings \u2013 and her clothes \u2013 as she uses her enormous intelligence to paint purely",
+      "title": "Bielle-Biarrey stars as France outplay Ireland to lay down a Six Nations marker",
+      "description": "Ireland rallied in the second half but a dazzling French performance before the interval proved decisive for Les Bleus in a 36-14 win in the Six Nations opener",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/artanddesign/2026/feb/05/gwen-john-strange-beauties-review-national-museum-cardiff",
+      "url": "https://www.theguardian.com/sport/2026/feb/05/france-ireland-six-nations-match-report",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Clothing chain Quiz enters administration with 109 job losses",
-      "description": "Some 109 jobs will be cut at the company's headquarters and distribution centre in Scotland.",
+      "title": "Trump waters down criticism of UK\u2019s Chagos Islands deal after call with Starmer",
+      "description": "US president says deal, which he previously described as act of \u2018great stupidity\u2019, was \u2018best\u2019 PM could make",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/feb/05/trump-criticism-chagos-islands-starmer",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Canada's auto industry plan signals latest pivot away from US",
+      "description": "The steps to bolster Canada's auto industry come as Trump's tariffs strain the sector and threaten jobs.",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdre12dnxlzo",
+      "url": "https://www.bbc.co.uk/news/articles/cvgd2j80klmo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Newly discovered Michelangelo foot sketch sells for \u00a316.9m",
-      "description": "Experts at Christie's say it is a foot sketch of the Libyan Sibyl, which was later painted on the Sistine Chapel ceiling.",
+      "title": "Cardiff dad who nearly lost his tongue due to cancer urges HPV awareness",
+      "description": "A father-of-two reveals how a tumour in his tongue was caused by human papillomavirus (HPV).",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c205x5xednlo",
+      "url": "https://www.bbc.co.uk/news/articles/c75xpq9v4r5o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "'My mum vanished when I was a child",
-      "description": "Kurtis Pratt is around the same age now as his mum was when she vanished - he issued a desperate demand to one of Britain's worst serial killers",
-      "source": "The Mirror",
-      "url": "https://www.mirror.co.uk/news/uk-news/son-begs-serial-killer-steve-36674018",
+      "title": "Bitcoin loses half its value in three months amid crypto crunch",
+      "description": "World\u2019s most prominent cryptocurrency peaked at $126,000 in October 2025, only to see its value slump steeply",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/feb/05/bitcoin-cryptocurrency-slump",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Telcos\u2019 AGR dues cross Rs 1.77 lakh crore till FY25; Vodafone Idea accounts for nearly half of liability",
-      "description": "India Business News: India\u2019s telecom operators together owed more than Rs 1.77 lakh crore in adjusted gross revenue (AGR) dues to the government up to FY25, with Vodafone .",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/telcos-agr-dues-cross-rs-1-77-lakh-crore-till-fy25-vodafone-idea-accounts-for-nearly-half-of-liability/articleshow/127947842.cms",
+      "title": "Arrogance Comes at a Cost for European Brands in China, Veteran Investor Warns",
+      "description": "Arrogance Comes at a Cost for European Brands in China, Veteran Investor Warns - Tommaso Paoli highlights the country\u2019s importance for international brands, advising foreign firms to learn from local players and treat the market as a testing ground for innovation",
+      "source": "Caixin",
+      "url": "https://www.caixinglobal.com/2026-02-06/arrogance-comes-at-a-cost-for-european-brands-in-china-veteran-investor-warns-102412340.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Minimum Wages in 2026: Where Europe Pays the Most - and the Least",
-      "description": "Minimum Wages in 2026: Where Europe Pays the Most \u2014 and the Least - Minimum wages continue to differ sharply across Europe, leaving millions of workers closely watching pay decisions in 2026. An estimated 12.8 million - News, Sport, Information, Property, Business, Travel, Tourism",
-      "source": "The Leader Newspaper",
-      "url": "https://theleader.info/2026/02/05/minimum-wages-in-2026-where-europe-pays-the-most-and-the-least/",
+      "title": "Driving Innovation in Telecoms: An Interview with David Zoldan, CEO of Launch 3 Telecom",
+      "description": "David Zoldan is the Founder and Chief Executive Officer of Launch 3 Telecom and a leader who has built his career in modern telecommunications, combining entrepreneurial instinct with a deep understanding of how connectivity underpins today\u2019s digital world. In this TechBullion interview, he shares insights into his professional path, the challenges of growth in the telecom sector, and his perspective on how next-generation networks will continue to reshape communication, commerce and everyday life in the years ahead.",
+      "source": "TechBullion",
+      "url": "https://techbullion.com/driving-innovation-in-telecoms-an-interview-with-david-zoldan-ceo-of-launch-3-telecom/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Lesotho and Its Textile Workers Hope African Duty-Free Deal Extension Heralds US Trade Revival",
-      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/top-news/articles/2026-02-05/lesotho-and-its-textile-workers-hope-african-duty-free-deal-extension-heralds-us-trade-revival",
+      "title": "Editorial | Hong Kong\u2019s innovation goals must go hand in hand with cybersecurity",
+      "description": "Recent reports on rising cyberattacks and data leaks underline the importance of bolstering cybersecurity in an AI-enhanced era.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/opinion/comment/article/3342327/hong-kongs-innovation-goals-must-go-hand-hand-cybersecurity",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "What Is Going On With Broadcom Stock On Thursday?",
-      "description": "Broadcom shares rose after Alphabet forecast up to $185 billion in 2026 AI infrastructure spending, boosting optimism for Broadcom's custom chip business and long-term growth outlook.",
-      "source": "Benzinga",
-      "url": "https://www.benzinga.com/markets/tech/26/02/50422549/broadcom-strengthens-its-nvidia-alternative-ai-chip-role-gains-on-google-capex-surge",
+      "title": "India-US energy corridor talks focus on India's growth-linked energy priorities",
+      "description": "HOUSTAN, Feb 5 : India\u2019s ambition to maintain high economic growth is closely linked to long-term energy security, Consul General D C Manjunath said, underlining the importance of dialogue and cooperation with the US industry to ensure reliable and affordable energy supplies, while advancing cleaner technologies and innovation. The Consulate General of India (CGI) in Houston on February 4 convened a high-level US\u00e2\u20ac\u201dIndia Energy Roundtable on the Global Energy Outlook 2026 at its office here, in partnership with the US-India [\u2026]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/india-us-energy-corridor-talks-focus-on-indias-growth-linked-energy-priorities/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "'We weren't hearing new ideas'",
-      "description": "Last week, Douglas County Commissioners announced they are ending general public comment at their business meetings, which are generally held the first and third Tuesday of each month.",
-      "source": "The Denver Post",
-      "url": "https://www.denverpost.com/2026/02/05/douglas-county-commissioners-end-general-public-comment/",
+      "title": "LG Kavinder reaffirms full support for growth of higher education in Ladakh",
+      "description": "Excelsior Correspondent LEH, Feb 5: The Lieutenant Governor of Ladakh, Kavinder Gupta, today visited the University of Ladakh (UoL) Campus at Taru and underscored the pivotal role of education, research and innovation in shaping Ladakh\u2019s future and contributing to the national vision of Viksit Bharat 2047. Interacting with the faculty, staff, and students, the LG said, \u201cInstitutions like the University of Ladakh are the cornerstone of nation-building in geographically challenging regions.\u201d He lauded the University\u2019s rapid growth since its inception [\u2026]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/lg-kavinder-reaffirms-full-support-for-growth-of-higher-education-in-ladakh/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Magic finally explains why print-to-demand Secret Lairs is gone: 'It's better for business'",
-      "description": "In a recent episode of Weekly MTG, Wizards of the Coast unpacked how the original Secret Lair approach caused too many problems.",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/mtg-secret-lair-print-to-demand-is-gone-for-good/",
+      "title": "\u2018Anusandhan\u2019 National Research Foundation sets course for India\u2019s innovation-led journey: Dr Jitendra",
+      "description": "Excelsior Correspondent NEW DELHI, Feb 5: India\u2019s research ecosystem is entering a decisive new phase with the Anusandhan National Research Foundation (ANRF) emerging as a catalyst for globally aligned, mission-driven and partnership-based research, Union Minister of State (Independent Charge) for Science & Technology, Earth Sciences and MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh said at the ANRF Foundation Day Function held in New Delhi. The Foundation Day event was organised at Prithvi Bhawan, Ministry [\u2026]",
+      "source": "Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/anusandhan-national-research-foundation-sets-course-for-indias-innovation-led-journey-dr-jitendra/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "As Amazon announces its results today, all eyes will be on AWS business and the reason is Microsoft",
-      "description": "Tech News News: Amazon is set to announce its quarterly results today. According to a report in Bloomberg, all eyes will be on Amazon's cloud business which is Amazon.",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-amazon-announces-its-results-today-all-eyes-will-be-on-aws-business-and-the-reason-is-microsoft/articleshow/127947578.cms",
+      "title": "Supporting Women Is Not Only \u2018What\u2019s Right,\u2019 It\u2019s Good Business",
+      "description": "\u201cWhether it\u2019s product innovation or anticipating how a tagline will land, having different voices in the mix matters,\u201d Horan said.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/supporting-women-is-not-only-whats-right-its-good-business-11465180",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Olympics-No Credible Threats to Milano Cortina Games, U.S. Security Official Says",
-      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-      "source": "U.S. News & World Report",
-      "url": "https://www.usnews.com/news/world/articles/2026-02-05/olympics-no-credible-threats-to-milano-cortina-games-u-s-security-official-says",
+      "title": "Denmark and Massachusetts\u2019 innovation pact",
+      "description": "Denmark and the U.S. state of Massachusetts have taken steps to deepen economic and scientific ties, signing a formal collaboration agreement",
+      "source": "Euro Weekly News",
+      "url": "https://euroweeklynews.com/2026/02/05/denmark-and-massachusetts-forge-innovation-pact-as-greenland-tensions-simmer/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "The Small, Almost Invisible Changes That Quietly Add Thousands to Your Bottom Line",
-      "description": "Introduction Most business owners believe profit comes from big moves. Launching a new product. Opening a second location. Hiring more staff. Spending more on ads. These changes feel productive because [\u2026]",
-      "source": "Santa Clarita Valley Signal",
-      "url": "https://signalscv.com/2026/02/the-small-almost-invisible-changes-that-quietly-add-thousands-to-your-bottom-line/",
+      "title": "ROOT Celebrates Six Years of Innovation With the Launch of Its Revolutionary New Wellness Ecosystem",
+      "description": "Six Years. Six Transformational Breakthroughs. Built for the Future",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/02/06/tmt-newswire/globenewswire/root-celebrates-six-years-of-innovation-with-the-launch-of-its-revolutionary-new-wellness-ecosystem/2272878",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "WEF launches independent probe into CEO Borge Brende over ties with Jeffrey Epstein",
-      "description": "WEF confirms an investigation after disclosures showed Brende had business dinners and communications with convicted sex offender Jeffrey Epstein.",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/world/wef-launches-independent-probe-into-ceo-borge-brende-over-ties-with-jeffrey-epstein-article-13814020.html",
+      "title": "Indo-US Defence Tech Ties Strengthened at Key Meeting",
+      "description": "India and the US discussed enhancing collaboration in critical defence technologies at the 24th Indo-US Joint Technical Group Plenary Meeting. The session focused on strengthening research ties and exploring partnerships in defence innovation. The event concluded with a project agreement under the Innovation Bridge framework.",
+      "source": "Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/technology/3795560-indo-us-defence-tech-ties-strengthened-at-key-meeting",
       "category": "General",
       "readingTime": 2
     }
