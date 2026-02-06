@@ -45,11 +45,11 @@ articles = unique_articles
 
 def generate_insight():
     prompt = """
-    Write a calm daily insight.
+    Write an interesting fact or facinating explainer about how the world works, focused on economics, finance, business, technology, or science.
 
     FORMAT EXACTLY LIKE THIS:
 
-    TITLE: <short thoughtful title>
+    TITLE: <short curiosity title>
     SUBTITLE: <one-line calm subtitle>
     BODY:
     <paragraph 1>
@@ -58,8 +58,8 @@ def generate_insight():
 
     <paragraph 3>
 
-    Tone: intelligent, optimistic, reflective.
-    Topics: economics, technology, society, learning, long-term thinking.
+    Tone: clear, engaging, explainer, no technical jargon
+    Topics: economics, finance, business , science
     Avoid crime, fear, gossip, and celebrity news.
     """
 
