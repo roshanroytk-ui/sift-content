@@ -45,7 +45,7 @@ articles = unique_articles
 
 def generate_insight():
     prompt = """
-    Write an interesting or facinating explainer about how the world works, focused on economics, finance, business, technology, or science in simple words. Examples include how is money created out of air, what is short selling in stock markets, what is futures & options in trading, how money grows exponentially, why is silicon valley famous for business, how does currency appreciate & depreciate, what is inflation in simple words, why do you find similar business near to each other, why debt can be good, why expensive shops survive 
+    Write an interesting or facinating explainer about how the world works, focused on economics, finance, business, technology, or science in simple words. 
 
     FORMAT EXACTLY LIKE THIS:
 
