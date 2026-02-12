@@ -1,262 +1,262 @@
 {
-  "updatedAt": "2026-02-11T04:26:44.234726",
+  "updatedAt": "2026-02-12T04:20:58.998306",
   "insight": {
-    "title": "Why a simple metal box changed the price of everything you own",
-    "subtitle": "How the standardized shipping container built the modern global economy.",
+    "title": "How your phone knows exactly where you are standing",
+    "subtitle": "The silent dance between your pocket and the stars.",
     "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Before the middle of the last century, loading a cargo ship was a slow and messy puzzle. Thousands of workers had to carry individual sacks of flour, barrels of oil, and wooden crates of clothes onto a deck by hand. Because every item was a different size and shape, it took days or even weeks to fill a single vessel. This meant that shipping things across the ocean was incredibly expensive, so most people primarily bought goods that were produced in their own nearby towns."
+        "text": "Most people think their phone sends a signal up to a satellite to find their location, but the process is actually much quieter. Your phone is actually a sophisticated \"listener.\" High above the Earth, a fleet of satellites is constantly shouting out two pieces of information: exactly what time it is and exactly where the satellite is located. Your phone picks up these signals from several satellites at once and compares the tiny differences in when each message arrived to calculate your position."
       },
       {
         "type": "paragraph",
-        "text": "Everything changed when a businessman realized that we shouldn't be moving items, but rather moving the space they sit in. By making every shipping container the exact same size, engineers were able to design ships, cranes, and trucks that fit them perfectly, like giant Lego pieces. This meant a ship could be loaded in a few hours instead of many days. Suddenly, the cost of moving a product across the world dropped so low that the distance between the maker and the buyer almost didn't matter anymore."
+        "text": "The most fascinating part of this technology involves the way time itself behaves. Because these satellites are moving very fast and are far away from Earth's gravity, time actually moves a tiny bit faster for them than it does for us on the ground. If scientists didn't use Albert Einstein\u2019s theories to nudge the satellite clocks back by a few billionths of a second every day, the GPS on your phone would be off by several miles within twenty-four hours. Your map works only because we account for the fact that time is not the same everywhere."
       },
       {
         "type": "paragraph",
-        "text": "This simple invention is the reason your smartphone, your coffee, and your shoes can come from three different continents and still be affordable. Because shipping became so cheap and reliable, companies stopped building factories near their customers and started building them wherever they could work most efficiently. Our modern world is held together by millions of these steel boxes traveling silently across the sea, making the entire planet function like one giant, connected marketplace."
+        "text": "This invisible system of atomic clocks and radio waves is the backbone of the modern world. It doesn't just help you find a coffee shop; it coordinates the timing of global banking transactions, helps airplanes land safely in the dark, and allows shipping companies to track goods across the ocean. Every time you see that little blue dot on your screen, you are witnessing a perfect harmony between high-level physics and everyday convenience."
       }
     ]
   },
   "news": [
     {
-      "title": "Rivian R2 prototype drives reveal new performance specs",
-      "description": "Rivian R2 prototypes have now been driven by a select few in digital media, and we have learned some new (potential) performance specs.",
-      "source": "Electrek",
-      "url": "https://electrek.co/2026/02/10/rivian-r2-prototypes-new-performance-specs/",
+      "title": "Irishman Seamus Culleton in ICE custody for overstaying visa 16 years ago",
+      "description": "Seamus Culleton, who is married to an American woman and runs a construction company in Boston, has been in custody ever since he was picked up by ICE agents while leaving a Home Depot near his home last September.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/02/11/us-news/irishman-seamus-culleton-in-ice-custody-for-overstaying-visa-16-years-ago/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "\u2018My needles are waiting\u2019: USA\u2019s Ben Ogden credits knitting habit after cross-country silver",
-      "description": "The Vermont native\u2019s silver medal in the sprint continues a run of strong performances for Americans in cross-country skiing",
+      "title": "Chris Hemsworth & Halle Berry in Glossy Thriller",
+      "description": "Chris Hemsworth, Halle Berry and Mark Ruffalo star in Bart Layton's thriller 'Crime 101,' based on a Don Winslow novella.",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/crime-101-review-chris-hemsworth-halle-berry-mark-ruffalo-1236501421/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "\u201cLandman\u201d's Michelle Randolph Admits She Asked Her On-Screen Dad Billy Bob Thornton If He 'Drank Angelina Jolie's Blood'",
+      "description": "\"Most of my scenes are with him, and I\u2019m thinking, 'God, like what, all I know is that he drank Angelina Jolie\u2019s blood or something,' \" the actress said",
+      "source": "Yahoo News Canada",
+      "url": "https://ca.news.yahoo.com/landman-michelle-randolph-admits-she-160004521.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Congress Showed ICE Leaders Images of ICE Brutality. The Response Was Telling.",
+      "description": "Congress finally got a chance on Tuesday to confront Homeland Security officials.",
+      "source": "Slate",
+      "url": "https://slate.com/news-and-politics/2026/02/congress-ice-hearing-pepper-spray-photos-pretti-good.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Chris Hemsworth and Mark Ruffalo Lead a Tip-Top Cast",
+      "description": "Bart Layton's jewel-heist thriller is more about character than crime: an expansive look at one corner of the L.A. underworld.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/reviews/crime-101-review-chris-hemsworth-mark-ruffalo-1236658899/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Reanimal Review (Switch 2)",
+      "description": "Not your average farm sim - If you\u2019re a horror fan and you own a Switch 2, you should play Reanimal. From the moment it pulls you into its bleak, nightmari...",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Support for Trump\u2019s immigration efforts drops sharply after Minnesota shootings",
+      "description": "Nearly half (49%) of all American adults disapprove of handling of immigration, NBC poll finds, versus 34% in April",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/feb/10/ben-ogden-cross-country-skiing-olympics-knitting",
+      "url": "https://www.theguardian.com/us-news/2026/feb/11/trump-immigration-support-minneapolis-shootings",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Malinowski Concedes to Mejia, a Progressive Activist, in New Jersey Race",
-      "description": "Tom Malinowski, who was battered by negative advertising, congratulated Analilia Mejia, a political organizer running for Gov. Mikie Sherrill\u2019s vacant seat in Congress, on a \u201chard-won victory.\u201d",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/02/10/nyregion/new-jersey-special-election-winner.html",
+      "title": "Russian drone attack in Ukraine kills 4 family members, pregnant mother survives",
+      "description": "A Russian drone has struck a home in Ukraine's Kharkiv region in an attack that killed a father and his three small children.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-strike-kharkiv-children-d680de8e1ac590dd1be54056ca3989f0",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Police report: Keion White was shot following argument with rapper Lil Baby",
-      "description": "Police report has more details about the Monday incident.",
-      "source": "NBC Sports",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/police-report-keion-white-was-shot-following-argument-with-rapper-lil-baby",
+      "title": "Prasad overruled FDA staff to reject Moderna flu vaccine application",
+      "description": "The rejection of Moderna's flu shot application is the latest example of Vinay Prasad overruling career FDA scientists to place vaccines under harsher scrutiny.",
+      "source": "statnews.com",
+      "url": "https://www.statnews.com/2026/02/11/moderna-flu-vaccine-application-rejected-by-prasad-overruling-fda-staff/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "EPA to revoke finding underpinning all climate regulations",
-      "description": "The endangerment finding gives the EPA authority to regulate greenhouse gases by deeming they pose a risk to public health and welfare.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html",
+      "title": "Pam Bondi testifies before House Judiciary Committee : NPR",
+      "description": "The attorney general's appearance before the House Judiciary Committee comes one year into her tenure, a period marked by a striking departure from traditions and norms at the Justice Department.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Ukrainian trains in helmet honoring athletes killed in war, IOC says it's banned for race",
-      "description": "Ukrainian skeleton athlete Vladyslav Heraskevych is allowed to wear a black armband at the Milan Cortina Olympics but the IOC says he cannot wear a helmet painted to honor Ukrainian athletes killed in the war with Russia.",
-      "source": "apnews.com",
-      "url": "https://apnews.com/article/ukraine-helmet-tribute-olympics-skeleton-c033a6f6a8a3ebcc86224d2c37344e8a",
+      "title": "FIH Pro League: Belgium's late surge hands India 1-3 defeat",
+      "description": "Nelson Onana, Thomas Crols and Arno Van Dessel scored the goals for Belgium while Shilanand Lakra netted one for India.",
+      "source": "ESPN India",
+      "url": "https://www.espn.in/field-hockey/story/_/id/47893836/india-vs-belgium-live-fih-mens-pro-league-scores-updates-commentary-news",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Local police aid ICE by tapping school cameras amid Trump\u2019s immigration crackdown",
-      "description": "Local police assisted federal immigration agents by repeatedly searching school cameras that record license plate numbers, data show",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/feb/10/ice-school-cameras-police-license-plates",
+      "title": "Sony might be teasing a new color of the WH-1000XM6 headphones",
+      "description": "Sony's WH-1000XM6 headphones are very likely coming in a new color soon, which would make them available in a total of four colors if that pans out. Sony",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2026/02/sony-might-be-teasing-a-new-color-of-the-wh-1000xm6-headphones.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Minnesota gubernatorial candidate suspends his campaign after his daughter is found fatally stabbed",
-      "description": "Minnesota gubernatorial candidate Jeff Johnson announced Monday that he is suspending his campaign after his daughter was found fatally stabbed",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/minnesota-gubernatorial-candidate-suspends-campaign-daughter-found-fat-rcna258320",
+      "title": "Iran\u2019s missiles threaten US military bases from Qatar to Iraq. Here\u2019s how",
+      "description": "The urgency behind US and Israeli pressure stems from a stark military reality: most American bases in the Middle East lie within the reach of Iran\u2019s missile arsenal.",
+      "source": "WION",
+      "url": "https://www.wionews.com/photos/iran-s-missiles-threaten-us-military-bases-from-qatar-to-iraq-here-s-how-1770821744817",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Pride Flag Is Removed From Stonewall Monument After Trump Directive",
-      "description": "The removal of the flag from the Manhattan monument, the symbolic heart of the gay rights movement, came after a Trump administration memo about flags at national park sites.",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/02/10/us/pride-flag-stonewall-inn-monument.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "'Motorola MA2' wireless Android Auto adapter leaks [Gallery]",
-      "description": "Motorola MA1 remains the only \u201cofficial\u201d wireless Android Auto adapter, but it\u2019s been available for four years now and is...",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/02/10/motorola-ma2-wireless-android-auto-adapter-leak/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Trade setup for February 11: Top 15 things to know before the opening bell",
-      "description": "Momentum indicators aligned with the rally. All key moving averages trended upward, and the index traded near the upper Bollinger Bands. Meanwhile, a falling VIX favoured bulls, signalling a healthy trend.",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-february-11-top-15-things-to-know-before-the-opening-bell-2-13822402.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Buried for 68 Million Years, Scientists Just Found a Dinosaur Egg Inside Another Egg",
-      "description": "Buried beneath India's ancient rock beds, scientists uncovered a prehistoric anomaly so rare it defies everything we thought we knew about dinosaur biology.",
-      "source": "Indian Defence Review",
-      "url": "https://indiandefencereview.com/buried-for-68-million-years-scientists-just-found-a-dinosaur-egg-inside-another-egg/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Inside the ICC's handling of the Pakistan boycott crisis",
-      "description": "From political pressure to questions of neutrality, the ICC's response to the Pakistan-led standoff offers a window into its approach to governance during a period of administrative change",
-      "source": "Cricbuzz.com",
-      "url": "https://m.cricbuzz.com/cricket-news/137665/inside-the-iccs-handling-of-the-pakistan-boycott-crisis",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "The Best HP Early Presidents' Day Deals",
-      "description": "Whether your favorite president is Harding or Polk, HP has holiday deals on desktops, laptops, and more,",
-      "source": "PCMag",
-      "url": "https://www.pcmag.com/deals/best-early-presidents-day-2026-deals-hp-laptops-desktops-printers?test_uuid=04IpBmWGZleS0I0J3epvMrC&test_variant=B",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Did You Know: The Universe has a color - and it\u2019s called \u201cCosmic Latte\u201d?",
-      "description": "Did you know? The official average colour of the universe is known as \u201cCosmic latte\u201d, a warm, creamy beige born from light billions of years in the making",
-      "source": "The Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/international/us/did-you-know-the-universe-has-a-color-and-its-called-cosmic-latte/articleshow/128166012.cms?from=mdr",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Delhi High Court to interact with Celina Jaitly\u2019s detained brother in UAE; asks MEA to explore options",
-      "description": "Meanwhile, the Court today restrained Celina Jaitly and other parties from interacting with the media regarding the case.",
-      "source": "Bar and Bench",
-      "url": "https://www.barandbench.com/news/delhi-high-court-to-interact-with-celina-jaitlys-detained-brother-in-uae-asks-mea-to-explore-options",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Get a Dolby Atmos surround sound system for less than \u00a3200 with Majority\u2019s new Bowfell Halo Atmos",
-      "description": "Majority has launched a new line of soundbars and surround sound systems, including the new Bowfell Halo Atmos offering Dolby Atmos for less than \u00a3200.",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/gear/majority-new-soundbars-surround-sound-systems-dolby-atmos/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Intel 900-series motherboard chipsets for Nova Lake CPUs detailed by a new leak",
-      "description": "A reliable tipster, Jaykihn @jaykihn0 on X, has leaked the complete configuration details of all motherboard chipsets in the Intel 900-series for Nova Lake CPUs.",
+      "title": "A budget MacBook with a $599 price tag on its way to threaten Windows' dominance, according to multiple reports",
+      "description": "According to multiple industry sources, such as Ming-Chi Kuo, Bloomberg, and TrendForce, Apple is working on a budget MacBook that will share many of the same specs as the MacBook Air, except that it",
       "source": "Sportskeeda Tech",
-      "url": "https://tech.sportskeeda.com/gaming-news/news-intel-900-series-motherboard-chipsets-nova-lake-cpus-detailed-new-leak",
+      "url": "https://tech.sportskeeda.com/laptops/a-budget-macbook-599-price-tag-way-threaten-windows-dominance-according-multiple-reports",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "India wait on Abhishek Sharma's recovery; Bumrah bowls again",
-      "description": "Sanju Samson got a long hit two days out from the Namibia fixture while Bumrah bowled at full throttle after missing the first game",
-      "source": "cricbuzz.com",
-      "url": "https://www.cricbuzz.com/cricket-news/137668/india-wait-on-abhishek-sharmas-recovery-bumrah-bowls-again-cricbuzzcom",
+      "title": "AI 171 pilot 'intentionally shut fuel switches\u2019: Italian report\u2019s claim on final probe finding",
+      "description": "Air India flight 171, flying from Ahmedabad to London, crashed soon after take off on June 12, 2025, killing 242 people on board, including 12 crew members.| India News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/india-news/ahmedabad-air-india-plane-crash-pilot-cut-off-fuel-switches-italian-report-sensational-claim-101770809613683.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Gut Microbiota Dysbiosis in Diabetic Retinopathy",
-      "description": "Microbial imbalance in the gut might contribute to diabetic retinopathy, a 2026 systematic review and meta-analysis has found. Read more.",
-      "source": "European Medical Journal",
-      "url": "https://www.emjreviews.com/diabetes/news/gut-microbiota-dysbiosis-is-a-factor-in-diabetic-retinopathy/",
+      "title": "RBI looks to ban sales incentive to bank staffers from third party",
+      "description": "RBI proposes banning incentives to bank staff from third parties, mandates refunds for mis-selling and bars use of dark patterns in marketing financial products",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/finance/news/rbi-proposes-ban-on-bank-staff-incentives-for-third-party-sales-126021101691_1.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Two boys stabbed at Kingsbury High School in Barnet, London",
-      "description": "Two boys, 12 and 13, are in hospital while \"urgent inquiries\" are ongoing to locate a teenage suspect.",
+      "title": "Texas Airport Was Shut Because Of \"Incursion\" Of Mexican Cartel Drones: Report",
+      "description": "The Federal Aviation Administration reopened the airspace around El Paso International Airport in Texas on Wednesday morning, just hours after it announced a 10-day closure that would have grounded all flights to and from the airport.",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/world-news/texas-airport-was-shut-because-of-incursion-of-mexican-cartel-drones-report-10989925",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Stocks to watch on February 12: IRCON, Godrej Ind, LG Electronics, Patanjali Foods and more",
+      "description": "From Patanjali Foods Ltd reporting a net profit of \u20b9364.2 crore to LG Electronics weaker Q3 performance to Godrej Industries reporting its results with revenue growing 4.7% YoY to \u20b95,051 crore, these are some of the stocks to watch ahead of Thursday\u2019s trading session.",
+      "source": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-on-february-12-ircon-godrej-ind-lg-electronics-patanjali-foods-and-more-19848012.htm",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Dow Jones, S&P 500, Nasdaq rally as investors focus on January payroll data, 4.3% unemployment - Details here",
+      "description": "Dow Jones, S&P 500, and Nasdaq rallied in the early market session on Wednesday as investors focused on January payroll data and 4.3% unemployment figure. However, the US stocks dropped after the initial rally \u2014 Here's what you need to know.",
+      "source": "Mint",
+      "url": "https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-rally-as-investors-focus-on-january-payroll-data-4-3-unemployment-details-here-11770821323576.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "'Not heard from anyone except Trump': Lavrov on US claims of India halting Russian oil imports",
+      "description": "\u201cI have not heard such a statement from anyone else, including Prime Minister Modi and other Indian leaders,\u201d Russian Foreign Minister Lavrov said. | World News",
+      "source": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/world-news/not-heard-from-anyone-except-trump-lavrov-on-us-claims-of-india-halting-russian-oil-imports-101770821114617.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Robin Windsor: Dancer slipped into depression after leaving Strictly, Lisa Riley tells inquest",
+      "description": "Actress Lisa Riley is among those giving evidence to the inquest of her late Strictly dance partner.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cge8yxpj7e1o",
+      "url": "https://www.bbc.co.uk/news/articles/czx4v6dd5k2o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Plymouth teacher who had sex with pupils jailed",
-      "description": "Anthony Redmond's offences took place in the early 2000s when he was a geography teacher.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvg3ljgz25no",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Pilot praised after landing faulty Somali passenger plane on seashore",
-      "description": "All 55 people on board survived after the plane failed to land on the runway near the shoreline.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c2d1pz3pxewo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Todd Howard and other Bethesda vets agree Fallout 4 is the most successful Fallout game ever mostly due to player-generated content",
-      "description": "A decade later, Todd Howard and other Bethesda Game Studios veterans talk about Fallout 4's success and legacy, and the importance the player-generated content.",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/bethesda-developers-talk-fallout-4-success-and-legacy",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Man found guilty of murdering five-month-old baby in Swansea",
-      "description": "Jensen-Lee Dougal was described as a \u201chappy baby\u201d but died after suffering \u201ccatastrophic brain injuries\u201d.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5yqwepn9zeo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Afghan asylum seeker guilty of raping girl, 12",
-      "description": "The 12-year-old suffered \"extremely horrific sexual offences\" in the Nuneaton attack, police say.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgkjg76lvxo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Six Nations 2026: Maro Itoje back in England starting XV",
-      "description": "Reaction and analysis as Maro Itoje returns to England's starting XV for Saturday's Six Nations game against Scotland.",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/rugby-union/live/c7v0vem7gy9t",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Irish man held in ICE detention says he fears for his life and asks Ireland for help",
-      "description": "Seamus Culleton describes conditions as \u2018torture\u2019 as he pleads with taoiseach to raise his case with Donald Trump",
+      "title": "Crime 101 review - bracing tale of master thief lifts a trick or two from Michael Mann",
+      "description": "The pedal is pressed hard to the metal for this very stylish high-stakes armed robbery thriller starring Chris Hemsworth",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/feb/10/irish-man-ice-detention-fears-life-ireland-help-seamus-culleton",
+      "url": "https://www.theguardian.com/film/2026/feb/11/crime-101-review-chris-hemsworth-barry-keoghan-mark-ruffalo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Self-styled 'middle of nowhere' restaurants awarded Michelin stars",
-      "description": "Killiecrankie House and 1887 in Torridon were both awarded one star this year.",
+      "title": "Companies fined after men killed at Bingley industrial estate",
+      "description": "Daron Pickstock and Lee Horton were killed at an industrial estate in Bingley in October 2020.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y5j9dlj0po",
+      "url": "https://www.bbc.co.uk/news/articles/c3v7ll1lq70o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Man Utd U18s beat West Brom in dramatic clash as Louie Bradbury scores brace and JJ Gabriel sees red",
-      "description": "Manchester United's U18 side beat West Brom in a dramatic Tuesday afternoon affair 4-3 with Louie Bradbury starring.",
-      "source": "United In Focus",
-      "url": "https://www.unitedinfocus.com/academy/man-utd-u18s-beat-west-brom-in-dramatic-clash-as-louie-bradbury-scores-brace-and-jj-gabriel-sees-red/",
+      "title": "Weather set to worsen with snow and ice",
+      "description": "Cold snap follows wettest start to a year on record for UK",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/news/2026/02/11/uk-weather-set-to-worsen-snow-ice-met-office-warning/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Two firms fined after incident on Bradford industrial estate",
+      "description": "Two firms have been fined over \u00a3150,000 after a racking collapse killed two workers at a Bradford industrial estate.",
+      "source": "Telegraph and Argus",
+      "url": "https://www.thetelegraphandargus.co.uk/news/25846985.two-firms-fined-incident-bradford-industrial-estate/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Lloyds to close another 95 bank branches in huge hammerblow",
+      "description": "The closures will reportedly take place between May 2026 and March 2027.",
+      "source": "Daily Express",
+      "url": "https://www.express.co.uk/news/uk/2169718/lloyds-close-95-bank-branches",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "'Wins like this are rare': The best EFL comeback victories",
+      "description": "From Southampton's 4-3 win at Leicester to 'the Miracle of Hillsborough', BBC Sport takes a look at the EFL's best comeback wins.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c78j18glmgpo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Anas Sarwar denies being part of wider plot to oust Keir Starmer",
+      "description": "The Scottish Labour leader says he stands by his call for the prime minister to resign.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cp32n5w77yjo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Cyclone Gezani kills at least 31 as it tears through Madagascar's port of Toamasina",
+      "description": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c931zzzep0eo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Carrick still \u2018not favourite\u2019 for United job",
+      "description": "Michael Carrick is still not the favourite to take charge of Manchester United permanently, despite his unbeaten run since taking the reins.",
+      "source": "Stretty News",
+      "url": "https://strettynews.com/2026/02/11/sky-sports-share-fresh-michael-carrick-update-out-of-man-utd-on-weds-afternoon-thatll-surprise-supporters/",
       "category": "General",
       "readingTime": 2
     }
