@@ -1,262 +1,262 @@
 {
-  "updatedAt": "2026-02-12T04:20:58.998306",
+  "updatedAt": "2026-02-13T04:16:19.906893",
   "insight": {
-    "title": "How your phone knows exactly where you are standing",
-    "subtitle": "The silent dance between your pocket and the stars.",
+    "title": "Why certain apps become impossible to replace once everyone starts using them",
+    "subtitle": "Exploring the hidden power of the network effect in our daily lives",
     "readingTime": 3,
     "sections": [
       {
         "type": "paragraph",
-        "text": "Most people think their phone sends a signal up to a satellite to find their location, but the process is actually much quieter. Your phone is actually a sophisticated \"listener.\" High above the Earth, a fleet of satellites is constantly shouting out two pieces of information: exactly what time it is and exactly where the satellite is located. Your phone picks up these signals from several satellites at once and compares the tiny differences in when each message arrived to calculate your position."
+        "text": "Imagine you are the only person in the world with a telephone. It would be completely useless because you have no one to call. But the moment a second person gets one, the phone suddenly has value. As more people join the network, the value of having a phone doesn\u2019t just grow a little bit; it explodes. This is because every new person who joins creates a new connection for everyone who was already there. In the world of business and technology, we call this the \"network effect,\" and it is the secret engine behind almost every giant company you use today."
       },
       {
         "type": "paragraph",
-        "text": "The most fascinating part of this technology involves the way time itself behaves. Because these satellites are moving very fast and are far away from Earth's gravity, time actually moves a tiny bit faster for them than it does for us on the ground. If scientists didn't use Albert Einstein\u2019s theories to nudge the satellite clocks back by a few billionths of a second every day, the GPS on your phone would be off by several miles within twenty-four hours. Your map works only because we account for the fact that time is not the same everywhere."
+        "text": "This effect creates a powerful cycle that is very hard to stop. Think about why you use a specific social media app or a messaging tool. It usually isn\u2019t because that app has the best buttons or the prettiest colors. You use it because that is where all your friends, family, and coworkers are. If you switched to a brand-new app that was technically better, you would be back to being the person with the only telephone in the world. The true value of the service isn\u2019t in the software itself, but in the massive web of people already connected to it."
       },
       {
         "type": "paragraph",
-        "text": "This invisible system of atomic clocks and radio waves is the backbone of the modern world. It doesn't just help you find a coffee shop; it coordinates the timing of global banking transactions, helps airplanes land safely in the dark, and allows shipping companies to track goods across the ocean. Every time you see that little blue dot on your screen, you are witnessing a perfect harmony between high-level physics and everyday convenience."
+        "text": "Because of this rule, winning in business is often more about being first or growing the fastest rather than having the most expensive features. Once a company reaches a certain size, it becomes a \"natural winner\" where it is much easier for a new person to join the crowd than to try something new. This explains why it is so difficult for small startups to challenge the giants of the internet. It isn\u2019t just about money or fancy technology; it\u2019s about the fact that a product becomes more useful simply because everyone else is already there."
       }
     ]
   },
   "news": [
     {
-      "title": "Irishman Seamus Culleton in ICE custody for overstaying visa 16 years ago",
-      "description": "Seamus Culleton, who is married to an American woman and runs a construction company in Boston, has been in custody ever since he was picked up by ICE agents while leaving a Home Depot near his home last September.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/02/11/us-news/irishman-seamus-culleton-in-ice-custody-for-overstaying-visa-16-years-ago/",
+      "title": "Jessie Diggins collapses in pain after securing bronze in Winter Olympics",
+      "description": "Jessie Diggins of the United States battled through injury to claim bronze Thursday in the women's 10\u2011kilometer interval start, a race dominated by Sweden's Frida Karlsson as she won her second gold medal at the Winter Olympics.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/sports/olympics/jessie-diggins-collapses-bronze-winter-olympics-rcna258725",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Chris Hemsworth & Halle Berry in Glossy Thriller",
-      "description": "Chris Hemsworth, Halle Berry and Mark Ruffalo star in Bart Layton's thriller 'Crime 101,' based on a Don Winslow novella.",
+      "title": "Sony WF-1000XM6 Earbuds Review: A Cut Above",
+      "description": "They aren't cheap at $330, but Sony's new flagship noise-canceling earbuds may very well be the best out there right now. Here's why.",
+      "source": "CNET",
+      "url": "https://www.cnet.com/tech/mobile/sony-wf-1000xm6-earbuds-review/",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "First Look at Nicolas Cage as Spider-Man",
+      "description": "Cage stars as a dark version of the the Marvel superhero in 1930s New York in this Prime Video series.",
       "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/crime-101-review-chris-hemsworth-halle-berry-mark-ruffalo-1236501421/",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/spider-noir-trailer-nicolas-cage-spider-man-1236503072/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "\u201cLandman\u201d's Michelle Randolph Admits She Asked Her On-Screen Dad Billy Bob Thornton If He 'Drank Angelina Jolie's Blood'",
-      "description": "\"Most of my scenes are with him, and I\u2019m thinking, 'God, like what, all I know is that he drank Angelina Jolie\u2019s blood or something,' \" the actress said",
-      "source": "Yahoo News Canada",
-      "url": "https://ca.news.yahoo.com/landman-michelle-randolph-admits-she-160004521.html",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Congress Showed ICE Leaders Images of ICE Brutality. The Response Was Telling.",
-      "description": "Congress finally got a chance on Tuesday to confront Homeland Security officials.",
+      "title": "Love Story nails America\u2019s obsession with the Kennedy family.",
+      "description": "Love Story charts the tragic romance between JFK Jr. and his fashion-industry bride Carolyn Bessette.",
       "source": "Slate",
-      "url": "https://slate.com/news-and-politics/2026/02/congress-ice-hearing-pepper-spray-photos-pretti-good.html",
+      "url": "https://slate.com/culture/2026/02/jfk-john-f-kennedy-jr-carolyn-bessette-love-story-fx-hulu.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Chris Hemsworth and Mark Ruffalo Lead a Tip-Top Cast",
-      "description": "Bart Layton's jewel-heist thriller is more about character than crime: an expansive look at one corner of the L.A. underworld.",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/reviews/crime-101-review-chris-hemsworth-mark-ruffalo-1236658899/",
+      "title": "\u2018I don\u2019t think he\u2019s funny\u2019: Zion Clark, wrestler born without legs, fires back at UFC heavyweight Valter Walker before fight",
+      "description": "Zion Clark, Valter Walker will compete at Karate Combat on Friday",
+      "source": "MMA Fighting",
+      "url": "https://www.mmafighting.com/latest-news/471238/i-dont-think-hes-funny-zion-clark-wrestler-born-without-legs-ready-for-war-against-ufc-heavyweight-valter-walker",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Reanimal Review (Switch 2)",
-      "description": "Not your average farm sim - If you\u2019re a horror fan and you own a Switch 2, you should play Reanimal. From the moment it pulls you into its bleak, nightmari...",
-      "source": "Nintendo Life",
-      "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/reanimal",
+      "title": "Presidents' Day sales 2026: The best tech deals to shop this week from Apple, Sony, Samsung and others",
+      "description": "Save up to 50 percent on everything from affordable streaming devices and accessories to high-end wearables, wireless headphones and more.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/deals/presidents-day-sales-2026-the-best-tech-deals-to-shop-this-week-from-apple-sony-samsung-and-others-163000831.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Support for Trump\u2019s immigration efforts drops sharply after Minnesota shootings",
-      "description": "Nearly half (49%) of all American adults disapprove of handling of immigration, NBC poll finds, versus 34% in April",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/feb/11/trump-immigration-support-minneapolis-shootings",
+      "title": "Google Maps prepping car icon and color picker for Android Auto",
+      "description": "The new Google Maps custom car icons have been available for a year, and more recently, the existence of custom...",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/02/12/google-maps-reportedly-prepping-car-icon-and-color-picker-for-android-auto/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Russian drone attack in Ukraine kills 4 family members, pregnant mother survives",
-      "description": "A Russian drone has struck a home in Ukraine's Kharkiv region in an attack that killed a father and his three small children.",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drone-strike-kharkiv-children-d680de8e1ac590dd1be54056ca3989f0",
+      "title": "Author of Viral AI Essay Says AI Helped Write It",
+      "description": "Matt Shumer said he wrote his viral essay for people like his dad who are skeptical of AI or just trying to avoid it entirely.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/matt-shumer-interview-ai-something-big-is-coming-essay-2026-2",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Prasad overruled FDA staff to reject Moderna flu vaccine application",
-      "description": "The rejection of Moderna's flu shot application is the latest example of Vinay Prasad overruling career FDA scientists to place vaccines under harsher scrutiny.",
-      "source": "statnews.com",
-      "url": "https://www.statnews.com/2026/02/11/moderna-flu-vaccine-application-rejected-by-prasad-overruling-fda-staff/",
+      "title": "Sue Me, I Loved It",
+      "description": "One reviewer called it \"astonishingly bad.\"",
+      "source": "BuzzFeed",
+      "url": "https://www.buzzfeed.com/natashajokic1/wuthering-heights-review-controversy",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Pam Bondi testifies before House Judiciary Committee : NPR",
-      "description": "The attorney general's appearance before the House Judiciary Committee comes one year into her tenure, a period marked by a striking departure from traditions and norms at the Justice Department.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/02/11/nx-s1-5707280/pam-bondi-oversight-hearing-department-of-justice",
+      "title": "Ferrari blocked F1 race start change - What you need to know",
+      "description": "Formula 1 is set for fresh talks about changes to race starts, The Race has learned, despite Ferrari blocking a previous move to alter them",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/ferrari-blocked-f1-race-start-change-what-you-need-to-know/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "FIH Pro League: Belgium's late surge hands India 1-3 defeat",
-      "description": "Nelson Onana, Thomas Crols and Arno Van Dessel scored the goals for Belgium while Shilanand Lakra netted one for India.",
-      "source": "ESPN India",
-      "url": "https://www.espn.in/field-hockey/story/_/id/47893836/india-vs-belgium-live-fih-mens-pro-league-scores-updates-commentary-news",
+      "title": "MEA refuses to deny U.S. claims on India\u2019s Russian oil imports",
+      "description": "MEA avoids denying U.S. claims on India's reduction of Russian oil imports amid ongoing discussions on trade agreements.",
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/mea-refuses-to-deny-us-claims-on-indias-russian-oil-imports/article70624942.ece",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Sony might be teasing a new color of the WH-1000XM6 headphones",
-      "description": "Sony's WH-1000XM6 headphones are very likely coming in a new color soon, which would make them available in a total of four colors if that pans out. Sony",
-      "source": "Android Headlines",
-      "url": "https://www.androidheadlines.com/2026/02/sony-might-be-teasing-a-new-color-of-the-wh-1000xm6-headphones.html",
+      "title": "Alpha-1 Antitrypsin Deficiency and Bronchiectasis",
+      "description": "New registry data show bronchiectasis affects multiple alpha-1 antitrypsin deficiency genotypes, not just Pi*ZZ.",
+      "source": "European Medical Journal",
+      "url": "https://www.emjreviews.com/respiratory/news/alpha-1-antitrypsin-deficiency-and-hidden-bronchiectasis-burden/",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Iran\u2019s missiles threaten US military bases from Qatar to Iraq. Here\u2019s how",
-      "description": "The urgency behind US and Israeli pressure stems from a stark military reality: most American bases in the Middle East lie within the reach of Iran\u2019s missile arsenal.",
-      "source": "WION",
-      "url": "https://www.wionews.com/photos/iran-s-missiles-threaten-us-military-bases-from-qatar-to-iraq-here-s-how-1770821744817",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "A budget MacBook with a $599 price tag on its way to threaten Windows' dominance, according to multiple reports",
-      "description": "According to multiple industry sources, such as Ming-Chi Kuo, Bloomberg, and TrendForce, Apple is working on a budget MacBook that will share many of the same specs as the MacBook Air, except that it",
-      "source": "Sportskeeda Tech",
-      "url": "https://tech.sportskeeda.com/laptops/a-budget-macbook-599-price-tag-way-threaten-windows-dominance-according-multiple-reports",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "AI 171 pilot 'intentionally shut fuel switches\u2019: Italian report\u2019s claim on final probe finding",
-      "description": "Air India flight 171, flying from Ahmedabad to London, crashed soon after take off on June 12, 2025, killing 242 people on board, including 12 crew members.| India News",
+      "title": "Parliament session day 12 highlights: No inflation crisis in India today, Sitharaman says in Rajya Sabha",
+      "description": "Parliament Budget Session Day 12 highlights: The Finance Minister said inflation has never been lower than what it is today, and also compared the unspent amount during a ten-year period for the UPA and NDA governments.| India News",
       "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/india-news/ahmedabad-air-india-plane-crash-pilot-cut-off-fuel-switches-italian-report-sensational-claim-101770809613683.html",
+      "url": "https://www.hindustantimes.com/india-news/parliament-budget-session-live-updates-rahul-gandhi-bjp-congress-hardeep-puri-pm-modi-lok-sabha-12-february-latest-news-101770886994385.html",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "RBI looks to ban sales incentive to bank staffers from third party",
-      "description": "RBI proposes banning incentives to bank staff from third parties, mandates refunds for mis-selling and bars use of dark patterns in marketing financial products",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/news/rbi-proposes-ban-on-bank-staff-incentives-for-third-party-sales-126021101691_1.html",
+      "title": "Bridge over troubled waters: Donald Trump\u2019s trade turbulence casts shadow on US",
+      "description": "India Business News: TOI correspondent from Washington: A rare congressional rebuke of President Donald Trump\u2019s Canada tariffs, a presidential rant targeting a flagship U.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bridge-over-troubled-waters-donald-trumps-trade-turbulence-casts-shadow-on-us-india-deal/articleshow/128265212.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Texas Airport Was Shut Because Of \"Incursion\" Of Mexican Cartel Drones: Report",
-      "description": "The Federal Aviation Administration reopened the airspace around El Paso International Airport in Texas on Wednesday morning, just hours after it announced a 10-day closure that would have grounded all flights to and from the airport.",
-      "source": "NDTV",
-      "url": "https://www.ndtv.com/world-news/texas-airport-was-shut-because-of-incursion-of-mexican-cartel-drones-report-10989925",
+      "title": "Happy Kiss Day 2026: Top 60+ Wishes, Messages, Greetings and Quotes for Your Special Someone",
+      "description": "Relationships News: Valentine\u2019s Week is almost at its peak. After the roses, sweet promises, and teddy bears, we\u2019ve finally reached the most personal day of the week - Ki.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/relationships/happy-kiss-day-2026-top-50-wishes-messages-greetings-card-pictures-images-whatsapp-instagram-story-and-quotes-for-your-special-someone/articleshow/128213371.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Stocks to watch on February 12: IRCON, Godrej Ind, LG Electronics, Patanjali Foods and more",
-      "description": "From Patanjali Foods Ltd reporting a net profit of \u20b9364.2 crore to LG Electronics weaker Q3 performance to Godrej Industries reporting its results with revenue growing 4.7% YoY to \u20b95,051 crore, these are some of the stocks to watch ahead of Thursday\u2019s trading session.",
+      "title": "Women\u2019s Cancer Risk: Obesity, Hormones & Inactivity",
+      "description": "Obesity, hormonal imbalance, and physical inactivity significantly increase women\u2019s cancer risk, particularly for breast, endometrial, and colorectal cancers. Excess fat raises estrogen and inflammation levels, promoting tumour growth. Experts say even a 10 per cent weight loss, regular exercise, and healthy diet changes can substantially reduce cancer incidence and improve long-term survival. , Health, Times Now",
+      "source": "Times Now",
+      "url": "https://www.timesnownews.com/health/womens-cancer-risk-is-rising-how-obesity-and-hormones-are-fueling-the-crisis-breast-cancer-uterine-cancer-article-153602559",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Stocks to watch on Feb 13: Coal India, Hindalco, IRCTC, Biocon and more",
+      "description": "From Coal India reporting a mixed set of numbers to Indian Hotels Company reporting net profit surging 50.2% to IRCTC reporting 18.4% YoY increase in revenue, these are some of the stocks to watch ahead of Friday\u2019s trading session.",
       "source": "CNBC TV18",
-      "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-on-february-12-ircon-godrej-ind-lg-electronics-patanjali-foods-and-more-19848012.htm",
+      "url": "https://www.cnbctv18.com/photos/market/stocks-to-watch-on-feb-13-coal-india-hindalco-irctc-biocon-and-more-19848993.htm",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Dow Jones, S&P 500, Nasdaq rally as investors focus on January payroll data, 4.3% unemployment - Details here",
-      "description": "Dow Jones, S&P 500, and Nasdaq rallied in the early market session on Wednesday as investors focused on January payroll data and 4.3% unemployment figure. However, the US stocks dropped after the initial rally \u2014 Here's what you need to know.",
-      "source": "Mint",
-      "url": "https://www.livemint.com/market/stock-market-news/dow-jones-s-p-500-nasdaq-rally-as-investors-focus-on-january-payroll-data-4-3-unemployment-details-here-11770821323576.html",
+      "title": "From roti to OTT: New inflation math tells story of new India",
+      "description": "India's inflation measurement has been updated. The new Consumer Price Index basket shows households now spend less on food and more on services and modern items. This shift reflects a growing economy and changing lifestyles. The Reserve Bank of India's inflation target band has been met. This revision captures how Indians are spending differently today compared to a decade ago.",
+      "source": "The Economic Times",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/from-roti-to-ott-new-inflation-math-tells-story-of-new-india/articleshow/128263855.cms?from=mdr",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "'Not heard from anyone except Trump': Lavrov on US claims of India halting Russian oil imports",
-      "description": "\u201cI have not heard such a statement from anyone else, including Prime Minister Modi and other Indian leaders,\u201d Russian Foreign Minister Lavrov said. | World News",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/world-news/not-heard-from-anyone-except-trump-lavrov-on-us-claims-of-india-halting-russian-oil-imports-101770821114617.html",
+      "title": "Dead-ball drama! Umpire intervenes, bowler forced to re-bowl in India vs Namibia match",
+      "description": "Cricket News: NEW DELHI: A dramatic moment briefly stole the spotlight during India\u2019s T20 World Cup 2026 Group A clash against Namibia at the Arun Jaitley Stadium i.",
+      "source": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/dead-ball-drama-umpire-intervenes-bowler-forced-to-re-bowl-in-india-vs-namibia-match/articleshow/128263165.cms",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Robin Windsor: Dancer slipped into depression after leaving Strictly, Lisa Riley tells inquest",
-      "description": "Actress Lisa Riley is among those giving evidence to the inquest of her late Strictly dance partner.",
+      "title": "Soft drinks controversy: DDCA breaks silence on viral video from Arun Jaitley Stadium",
+      "description": "DDCA responded to viral video alleging soft drink resale at Arun Jaitley Stadium. The association confirmed authorised waste disposal and emphasised strict hygiene protocols.",
+      "source": "India Today",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ddca-clarifies-soft-drink-vendor-viral-video-refilling-bottles-arun-jaitley-stadium-2867396-2026-02-12",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Lorry driver who made guns and prepared for 'race war' is jailed",
+      "description": "Thomas McKenna, 60, had set up a gun-conversion factory in a caravan in South Ockenden, Essex.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/czx4v6dd5k2o",
+      "url": "https://www.bbc.co.uk/news/articles/c1kl9pkr0rxo",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Crime 101 review - bracing tale of master thief lifts a trick or two from Michael Mann",
-      "description": "The pedal is pressed hard to the metal for this very stylish high-stakes armed robbery thriller starring Chris Hemsworth",
+      "title": "Sony WF-1000XM6 review",
+      "description": "Sony\u2019s only gone and done it again",
+      "source": "What Hi-Fi?",
+      "url": "https://www.whathifi.com/headphones/wireless-earbuds/sony-wf-1000xm6",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Hunt for 'disgusting' pervert who carried out sex act in front of teen girl on Newcastle bus",
+      "description": "A teenage girl has been left scared to go out after her horrific ordeal on the number 39 bus while travelling home from Newcastle city centre",
+      "source": "Chronicle Live",
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/pervert-sex-act-newcastle-bus-33412097",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Missing man at centre of Leicester murder probe named by police",
+      "description": "Nine people remain in custody on suspicion of the murder of Gary Piatek, 60, who was last seen in 2024.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c2lr921j02qo",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Winter Olympics 2026: Bruce Mouat's Team GB rink beats Sweden",
+      "description": "Team GB's men's curlers reinforce their credentials as Winter Olympic gold medal favourites with a statement 6-3 win over Sweden.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/articles/cjen0nqyw33o",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Winter Olympics 2026: Bruce Mouat's Team GB rink beats Sweden",
+      "description": "Team GB's men's curlers reinforce their credentials as Winter Olympic gold medal favourites with a statement 6-3 win over Sweden.",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sport/articles/cjen0nqyw33o",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Lisa Nandy refers Telegraph sale to watchdogs over rightwing media plurality concerns",
+      "description": "CMA and Ofcom to examine DMGT takeover amid fears merger could curb \u2018diverging editorial stances\u2019 in press",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/feb/11/crime-101-review-chris-hemsworth-barry-keoghan-mark-ruffalo",
+      "url": "https://www.theguardian.com/media/2026/feb/12/lisa-nandy-refers-telegraph-sale-to-watchdogs-over-rightwing-media-plurality-concerns-daily-mail",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Companies fined after men killed at Bingley industrial estate",
-      "description": "Daron Pickstock and Lee Horton were killed at an industrial estate in Bingley in October 2020.",
+      "title": "Daily Mail owner's takeover of Telegraph to face probe",
+      "description": "Culture Secretary Lisa Nandy orders a review of the deal on public interest and competition grounds.",
       "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c3v7ll1lq70o",
+      "url": "https://www.bbc.co.uk/news/articles/czj17w3n1e8o",
       "category": "General",
       "readingTime": 2
     },
     {
-      "title": "Weather set to worsen with snow and ice",
-      "description": "Cold snap follows wettest start to a year on record for UK",
+      "title": "White tent is erected outside Nancy Guthrie's home 11 days after her abduction",
+      "description": "A white tent has been erected outside Nancy Guthrie's Arizona home 11 days after she was abducted.",
+      "source": "Daily Mail",
+      "url": "https://www.dailymail.co.uk/news/article-15554253/nancy-guthrie-home-white-tent-arizona-home.html",
+      "category": "General",
+      "readingTime": 2
+    },
+    {
+      "title": "Rayner and Burnham defy Starmer with call for more support for pubs",
+      "description": "Left-wing of the Labour Party is pushing for policy changes as PM clings to power",
       "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/news/2026/02/11/uk-weather-set-to-worsen-snow-ice-met-office-warning/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Two firms fined after incident on Bradford industrial estate",
-      "description": "Two firms have been fined over \u00a3150,000 after a racking collapse killed two workers at a Bradford industrial estate.",
-      "source": "Telegraph and Argus",
-      "url": "https://www.thetelegraphandargus.co.uk/news/25846985.two-firms-fined-incident-bradford-industrial-estate/",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Lloyds to close another 95 bank branches in huge hammerblow",
-      "description": "The closures will reportedly take place between May 2026 and March 2027.",
-      "source": "Daily Express",
-      "url": "https://www.express.co.uk/news/uk/2169718/lloyds-close-95-bank-branches",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "'Wins like this are rare': The best EFL comeback victories",
-      "description": "From Southampton's 4-3 win at Leicester to 'the Miracle of Hillsborough', BBC Sport takes a look at the EFL's best comeback wins.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c78j18glmgpo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Anas Sarwar denies being part of wider plot to oust Keir Starmer",
-      "description": "The Scottish Labour leader says he stands by his call for the prime minister to resign.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cp32n5w77yjo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Cyclone Gezani kills at least 31 as it tears through Madagascar's port of Toamasina",
-      "description": "Madagascar's disaster management says roads are inaccessible with trees uprooted, power poles down and ninety percent of roofs ripped off.",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c931zzzep0eo",
-      "category": "General",
-      "readingTime": 2
-    },
-    {
-      "title": "Carrick still \u2018not favourite\u2019 for United job",
-      "description": "Michael Carrick is still not the favourite to take charge of Manchester United permanently, despite his unbeaten run since taking the reins.",
-      "source": "Stretty News",
-      "url": "https://strettynews.com/2026/02/11/sky-sports-share-fresh-michael-carrick-update-out-of-man-utd-on-weds-afternoon-thatll-surprise-supporters/",
+      "url": "https://www.telegraph.co.uk/politics/2026/02/12/angela-rayner-andy-burnham-attack-starmers-pub-tax-raid/",
       "category": "General",
       "readingTime": 2
     }
